@@ -26,6 +26,11 @@ book:
   cookie-consent: false
   page-navigation: true
   downloads: pdf
+  comments:
+    hypothesis:
+      theme: clean
+      openSidebar: true
+      showHighlights: whenSidebarOpen
 
   chapters:
     - index.qmd
@@ -79,11 +84,6 @@ format:
   #   number-sections: false
   #   fig-align: center
   #   df-print: kable
-
-comments:
-  hypothesis:
-    theme: clean
-    showHighlights: whenSidebarOpen
 
 
 editor: visual
