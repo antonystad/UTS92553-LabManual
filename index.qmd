@@ -1,7 +1,5 @@
 # Overview {.unnumbered}
 
-Test
-
 This laboratory manual has been compiled to be an integral component of course content for 92553 Complex Exercise Management. It is designed to be an interactive learning resource, so please bring it to every class either on a device or printed as a hard copy. We will work through various issues associated with a range of chronic diseases, with a view to exploring some of the practical elements of these topics.
 
 There are Pre-Lab Activities published each week on Canvas, which are designed to be undertaken prior to attending class. These are also available at the start of each respective chapter of the lab manual. The activities are designed to test your understanding of the content, and encourage critical thinking about the content that you are about to engage with in class.
@@ -39,4 +37,3 @@ Antony
 | 12   | 12 May | Neuromuscular Rehabilitation           |
 | 13   | 19 May | DXA & Exercise Modification            |
 | 14   | 26 May | No Classes - Study Leave               |
-
