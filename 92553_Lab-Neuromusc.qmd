@@ -1,0 +1,184 @@
+---
+title: "Week 12 - Neuromuscular Rehabilitation"
+subtitle: "Electromyostimulation for Rehabilitation and Recovery"
+---
+
+{{< pagebreak >}}
+
+## Pre-Lab Activity
+
+Read the following articles, available in your Canvas Modules or by following the links below
+
+> Enoka, R. M., Amiridis, I. G., & Duchateau, J. (2019). Electrical stimulation of muscle: electrophysiology and rehabilitation. *Physiology*. <https://doi-org.ezproxy.lib.uts.edu.au/10.1152/physiol.00015.2019>
+
+Complete the Pre-Lab Quiz on neuromuscular conditions in your Canvas Modules.
+
+{{< pagebreak >}}
+
+## Lab Session
+
+### Introduction
+
+To contract a muscle, your nervous system sends an electrical nerve impulse (action potential) to a motor unit, along motor neurons to the neuromuscular junction (NMJ) where a cascade of physiological events result in muscle contraction and relaxation (from sarcoplasmic reticulum release and re-uptake of calcium ions, respectively). In some individuals, this process may be impaired or inhibited due to local or possibly more global neuromuscular deficits or injury.
+
+Electrical muscle stimulation (or, electromyostimulation; EMS) therapy allows the generation of neural activity that can stimulate muscle activity via electrodes, either implanted or attached to skin. The electrical currents stimulate activation signals at the intramuscular axons (rather than directly in muscle fibres) in a manner that allows the downstream physiological events to occur, and work to be performed. Muscles cannot tell the difference between a voluntary contraction triggered by the brain, and an electrically-induced contraction.
+
+EMS may be used to either augment (make larger) or replicate the typical electrical signals your brain sends to motor units to generate muscle activity and force production. As such, it can provide a valuable adjunct stressor to induce physiological strain, resulting in adaptation. Such treatments can be beneficial for individuals with neuromuscular deficits, injuries, or pain, e.g., spinal cord injury, stroke, musculoskeletal strain or surgery. A major research focus of EMS has been musculoskeletal rehabilitation (e.g., muscle atrophy).
+
+In this lab, we will be experimenting with Compex EMS devices, applying electrodes to various muscles to elicit muscular contractions. As with any training modality or tool, a practitioner should understand what it is, how it works, and why it is useful. Knowing what it feels like is a valuable experience so that you can properly explain to a client or patient what they will experience, and the potential benefits of it. This activity will help you to understand practical considerations when assessing the appropriateness before prescribing and implementing in practice. The objectives of this lab are to:
+
+-   Examine various clinical neuromuscular conditions and their impact on physiology and movement
+
+-   Explore the potential role and impact of EMS in rehabilitation and recovery
+
+-   Consider opportunities to use EMS in clinical, general, and athletic populations, and any ethical considerations that may be relevant
+
+#### Electromyostimulation
+
+EMS-based rehabilitation protocols typically involve electrodes applied to the skin adjacent to the target muscle and its nerve branches. The neuromuscular activation is limited by the electrical current applied and the transmission of signal through various tissues (skin, adipose, muscle). As such, the closer the electrodes are to the target muscle nerves, and the stronger the electrical current, the larger the impulse and muscle activation. Currents are conducted both across (transverse) and along (longitudinal) the target muscle, although the longitudinal distribution will be more effective as it remains superficial (i.e., less attenuation by tissue). It's also clear that the positioning and orientation of electrodes is an important factor to maximise signal-to-activation effect. Some evidence logically suggests that the closer electrodes are to a motor unit, the more likely it is that action potentials will be able to propagate to every motor neuron and muscle fibre it innervates, maximising the effect of the stimulus on the target muscle.
+
+![The neural branch supply to three muscles, A) tibialis anterior by the deep fibular nerve, B) gastrocnemius by the tibial nerve, and C) soleus by the tibial nerve branching into superficial and deep compartments; from Enoka et al. (2019)](images/EMS_Enoka-Fig1.png){fig-align="center" width="100%"}
+
+A primary goal of EMS is to provide acute and/or chronic therapeutic effects. The effect that is achieved can depend on the type of electrical stimulation applied. Common variants include:
+
+-   Neuromuscular Electrical Stimulation (NMES) where high-intensity, intermittent electrical stimuli generate relatively large muscle contractions, it is commonly used for neuromuscular rehabilitation or strength training
+
+-   Functional Electrical Stimulation (FES) where moderate-intensity, cyclical electrical stimuli generate functional movements similar to voluntary contractions, it is commonly used to restore lost function
+
+-   Transcutaneous Electrical Nerve Stimulation (TENS) where low-intensity, continuous electrical stimuli are applied to cutaneous nerve fibres with little muscle contraction, it is commonly used for acute and chronic pain treatment
+
+![Common variants of peripheral electrical stimulation, from Carson & Buick (2021)](images/EMS_Carson-tbl1.png){fig-align="center" width="100%"}
+
+FES and TENS have been successfully integrated into clinical rehabilitation settings (Maffiuletti et al., 2018). Evidence is growing for the use of NMES, and it has clear potential to be used in various populations and contexts, including maintenance (e.g., during disuse), restoration (e.g., after disuse), or improvement (e.g., athletic training) of neuromuscular function. The expected effects of NMES therapy are demonstrated in the figure below.
+
+![Expected effects of NMES therapy (shaded area) for improving (healthy), maintaining (during disuse), or restoring (after disuse) neuromuscular function, from Maffiuletti et al. (2018)](images/EMS_Maffiuletti-fig1.png){width="100%"}
+
+#### Clinical Conditions
+
+Studies have shown that EMS can be beneficial for individuals affected by Spinal Cord Injury, Stroke, Brain Injury, Multiple Sclerosis, Cerebral Palsy, and Arthritis. The primary goals of this modality are to prevent atrophy or secondary disease resulting from lack of movement/physical activity, improve physical and mental well-being, and maintain local blood circulation and cardiopulmonary fitness.
+
+The objective of EMS is not necessarily to induce movement from muscle contractions, in which case TENS may be the more appropriate modality, used to prevent or treat problems (i.e., secondary disease) associated with SCI or MS. These may include:
+
+-   Deep Vein Thrombosis (DVT; blood clots)
+
+-   Pressure sores
+
+-   Spasticity (uncontrolled contractions)
+
+-   Contractures (joint ROM impairment)
+
+-   Tremor (involuntary shaking)
+
+-   Osteoporosis (loss of bone mineral density)
+
+-   Atrophy
+
+-   Male sexual dysfunction
+
+EMS has also been shown to be effective in preparation for and recovery from exercise (e.g., to complement a warm up or cool down protocol), injury and post-surgical rehabilitation, and to provide additional physiological stress during training.
+
+![A study by Stevens-Lapsley et al. (2012) Physical Therapy demonstrates the potential benefit of NMES compared to control in rehabilitation from Total Knee Arthroplasty](images/EMS_Enoka-Fig5.png){fig-align="center" width="7cm"}
+
+{{< pagebreak >}}
+
+### Methods
+
+#### Equipment
+
+-   Compex Electrical Muscle Stimulator
+-   Electrodes
+-   Gloves
+-   Razors
+-   Alcohol swabs
+-   Fine sandpaper
+-   Adhesive tape
+-   Massage table
+
+#### Procedure
+
+We will be using Compex EMS devices for neuromuscular stimulation. This activity involves guided discovery where, in groups of 6-8 students, you will experiment with location and orientation of electrodes to induce electrical stimulation of various muscles, making subjective assessments of contraction responses. You are allowed to perform the tests on multiple individuals within your group and, ideally, everyone should experience what EMS feels like (if you are comfortable doing so). As always, treat your 'patient' with respect and care.
+
+##### Electrode Placement
+
+1.  Have the patient lie down or sit on the edge of a massage table to prepare for electrode placement; the patient may need to remove outer layers of clothing to enable easy access to electrode sites
+
+2.  Prepare the electrode site by rubbing gently with fine sandpaper, then wipe with alcohol swabs to clean the site of any skin fragments, sweat, or oil; \*If the patient has body hair at any electrode site, you must first remove the hair in the area using a shaver before following with sandpaper and alcohol swabs
+
+3.  Once the alcohol has dried, remove the adhesive cover from an electrode then apply the electrode firmly to the skin at each site, referring to the Compex Guide for locations and orientations, and trying not to overlap the adhesive gel surfaces of the electrodes
+
+4.  Referring to the Compex Guide, press each clip-on cable onto its respective electrode, making sure to check that each clip is applied at the correct location and has been clipped on securely
+
+5.  Plug the wires into the Compex device then switch the device on to select a program, referring to the Compex Guide to choose the appropriate program and intensities
+
+6.  During the EMS bout, perform active and passive joint movements to assess contraction strength, and seek subjective feedback from the patient to support your observations
+
+7.  Adjust electrode positioning if required before re-testing, or select a new target muscle and repeat steps above
+
+::: {.callout-important appearance="simple"}
+Do not throw out electrode pads - they are reusable
+
+Do not apply electrodes to the face, neck, near the heart or spine, or on genitals
+:::
+
+{{< pagebreak >}}
+
+### Results
+
+Make notes below about the target muscles chosen, positioning of electrodes, and the objective and subjective assessments made during your EMS trials
+
+\
+\
+\
+\
+\
+\
+\
+\
+
+##### Lab Question 1
+
+Now that you've had a chance to play around with the EMS devices, what considerations would you make before implementing this tool in practice?
+
+\
+\
+\
+
+##### Lab Question 2
+
+Think about some creative ways that this tool could be used in clinical, general, or athletic populations - what settings would you be interested in researching to see if EMS can be useful for improving, maintaining, or restoring function?
+
+\
+\
+\
+\
+
+{{< pagebreak >}}
+
+### Discussion
+
+Throughout the lab we will be viewing and discussing content related to muscle stimulation for neuromuscular rehabilitation. You can write any notes related to the content, discussions, and practical activities below.
+
+\
+\
+\
+\
+\
+\
+\
+\
+
+{{< pagebreak >}}
+
+### References
+
+Carson, R. G., & Buick, A. R. (2021). Neuromuscular electrical stimulation-promoted plasticity of the human brain. *The Journal of Physiology*, *599*(9), 2375–2399. <https://doi.org/10.1113/JP278298>
+
+Enoka, R. M., Amiridis, I. G., & Duchateau, J. (2019). Electrical stimulation of muscle: electrophysiology and rehabilitation. *Physiology*. <https://doi-org.ezproxy.lib.uts.edu.au/10.1152/physiol.00015.2019>
+
+Maffiuletti, N. A., Gondin, J., Place, N., Stevens-Lapsley, J., Vivodtzev, I., & Minetto, M. A. (2018). Clinical Use of Neuromuscular Electrical Stimulation for Neuromuscular Rehabilitation: What Are We Overlooking? *Archives of Physical Medicine and Rehabilitation*, *99*(4), 806–812. <https://doi.org/10.1016/j.apmr.2017.10.028>
+
+##### Resources
+
+Compex Electrode Placement Guide
+
+<https://s3.amazonaws.com/assets.compex.com/fr/compex-electrode-placement-EN-NL-PT-SV-RU.pdf>

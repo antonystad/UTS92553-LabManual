@@ -1,0 +1,310 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.15)  16 JAN 2025 14:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**before-body.tex
+(./before-body.tex
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-25>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 $
+     if(has-frontmatter)$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+! Undefined control sequence.
+l.2 \frontmatter
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (56.81906pt too wide) in paragraph at lines 1--5
+[]$\OML/cmm/m/it/10 if\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 has \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (59.84511pt too wide) in paragraph at lines 1--5
+\OML/cmm/m/it/10 frontmatter\OT1/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (25.28087pt too wide) in paragraph at lines 1--5
+\OML/cmm/m/it/10 endif$
+ []
+
+
+Overfull \hbox (35.69939pt too wide) in paragraph at lines 1--5
+\OML/cmm/m/it/10 if\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 title\OT1/cmr/m/n/10 )$ 
+ []
+
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \cleardoublepage
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/Users/146752/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+! Undefined control sequence.
+l.9 {\Huge
+          \bfseries $title$ \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 {\Huge\bfseries $
+                     title$ \par}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (18.5042pt too wide) in paragraph at lines 9--9
+ []$\OML/cmm/m/it/10 title$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 $
+      if(subtitle)$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.12 {\Large
+            \bfseries $subtitle$ \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (50.40312pt too wide) in paragraph at lines 10--12
+ []$\OML/cmm/m/it/10 if\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 subtitle\OT1/cmr/m/n/10 )$ 
+ []
+
+
+Overfull \hbox (33.20793pt too wide) in paragraph at lines 10--12
+ \OML/cmm/m/it/10 subtitle$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 $
+      endif$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.16 {\Large
+            \bfseries $by-author.name.literal$ \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (25.28087pt too wide) in paragraph at lines 13--16
+ []$\OML/cmm/m/it/10 endif$ 
+ []
+
+
+Overfull \hbox (36.82881pt too wide) in paragraph at lines 13--16
+ \OML/cmm/m/it/10 for\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 by \OMS/cmsy/m/n/10 ^^@ 
+ []
+
+
+Overfull \hbox (33.90866pt too wide) in paragraph at lines 13--16
+ \OML/cmm/m/it/10 author\OT1/cmr/m/n/10 )$ 
+ []
+
+
+Overfull \hbox (17.33105pt too wide) in paragraph at lines 13--16
+ \OML/cmm/m/it/10 by \OMS/cmsy/m/n/10 ^^@ 
+ []
+
+
+Overfull \hbox (87.89333pt too wide) in paragraph at lines 13--16
+ \OML/cmm/m/it/10 author:name:literal$ 
+ []
+
+! Undefined control sequence.
+l.18 {\bfseries\large
+                      $date$ \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 {\bfseries\large $
+                       date$ \par}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (18.75813pt too wide) in paragraph at lines 18--18
+ []$\OML/cmm/m/it/10 date$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 $
+      for(by-author.affiliations)$%
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.22 {\bfseries\large
+                      $it.department$ \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (36.82881pt too wide) in paragraph at lines 20--22
+ []$\OML/cmm/m/it/10 for\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 by \OMS/cmsy/m/n/10 ^^@ 
+ []
+
+
+Overfull \hbox (231.43182pt too wide) in paragraph at lines 20--22
+ \OML/cmm/m/it/10 author:affiliations\OT1/cmr/m/n/10 )$$\OML/cmm/m/it/10 if\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 it:department\OT1/cmr/m/n/10 )$$\OML/cmm/m/it/10 it:department$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 $
+      if(it.faculty)$%
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.25 {\bfseries\large
+                      $it.faculty$ \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (103.5904pt too wide) in paragraph at lines 24--25
+ []$\OML/cmm/m/it/10 if\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 it:faculty\OT1/cmr/m/n/10 )$$\OML/cmm/m/it/10 it:faculty$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 $
+      if(it.name)$%
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.28 {\bfseries\large
+                      $it.name$ \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (86.31253pt too wide) in paragraph at lines 27--28
+ []$\OML/cmm/m/it/10 if\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 it:name\OT1/cmr/m/n/10 )$$\OML/cmm/m/it/10 it:name$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 $
+      endfor$$endfor$%
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+! Emergency stop.
+<*> before-body.tex
+                   
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 22 strings out of 475117
+ 443 string characters out of 5763370
+ 387889 words of memory out of 5000000
+ 23125 multiletter control sequences out of 15000+600000
+ 559145 words of font info for 37 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 24i,5n,22p,107b,102s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

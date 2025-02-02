@@ -1,0 +1,110 @@
+---
+title: "Week 7 - Exercise & Mental Health"
+---
+
+{{< pagebreak >}}
+
+## Pre-Lab Activity
+
+Read Chapter 34 of the textbook which relates to the topic of Depression.
+
+Read the following paper, available in your Canvas Modules or by following the link below
+
+> Vella, S. A., Aidman, E., Teychenne, M., Smith, J. J., Swann, C., Rosenbaum, S., ... & Lubans, D. R. (2023). Optimising the effects of physical activity on mental health and wellbeing: A joint consensus statement from Sports Medicine Australia and the Australian Psychological Society. *Journal of Science and Medicine in Sport*, *26*(2), 132-139. <https://www-sciencedirect-com.ezproxy.lib.uts.edu.au/science/article/pii/S1440244023000014>
+
+{{< pagebreak >}}
+
+## Lab Session
+
+### Introduction
+
+::: {.callout-important appearance="simple"}
+The topic and content covered in this lab session may cause discomfort or distress for some individuals in the class. Please be considerate of your peers and, if you are experiencing discomfort or distress during the lab, please feel free to let a tutor know and take time outside of the class - we are happy to talk at a time and place that is comfortable for you.
+:::
+
+Mental Health is...
+
+The objectives of this lab are to:
+
+-   1
+
+-   2
+
+-   3
+
+#### Mental Health vs Mental Illness
+
+Text
+
+##### Key Definitions
+
+-   1
+
+-   2
+
+-   3
+
+##### Prevalence in the Australian context
+
+Mental Illness is
+
+#### Links between Mental and Physical Health
+
+Evidence base
+
+Gaps to close
+
+##### Green & Blue Prescription
+
+Physical and Social Environment effect on responses to exercise
+
+Indigenous connections to country, land, water - relevance to prescription and community initiatives
+
+{{< pagebreak >}}
+
+### Activity 1 - Evidence Search
+
+Effects of different types of exercise on Mental Health Disorders (assigned to each group)
+
+Research in small groups
+
+Identify recommendations
+
+Consider strengths, weaknesses, and barriers to each type/mode
+
+Brief overview of findings presented by each disorder research group
+
+{{< pagebreak >}}
+
+### Activity 2 - Case Study
+
+Design a program for a veteran with reference to Vella et al., 2023 - SMA/APS consensus statement
+
+-   Depressive symptoms, PTSD (flashbacks, social avoidance, night terrors)
+
+SOAP structure
+
+-   Specific questions or information needed from client or other health professionals (collateral information, e.g., trauma responses and 'catalysis for exacerbation')
+
+-   "Triggers" (and appropriateness of this terminology)
+
+### Discussion
+
+1.  Q1
+2.  Q2
+
+#### Future Learning Opportunities
+
+-   MHFA
+
+-   Beyond Blue
+
+-   Black Dog
+
+-   ESSA CPD Training
+
+-   The Mental Wellbeing Podcast with Indi Dissin
+
+-   Masters of Clinical Exercise Physiology
+
+-   Research - Oscar

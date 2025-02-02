@@ -1,0 +1,42 @@
+# Overview {.unnumbered}
+
+Test
+
+This laboratory manual has been compiled to be an integral component of course content for 92553 Complex Exercise Management. It is designed to be an interactive learning resource, so please bring it to every class either on a device or printed as a hard copy. We will work through various issues associated with a range of chronic diseases, with a view to exploring some of the practical elements of these topics.
+
+There are Pre-Lab Activities published each week on Canvas, which are designed to be undertaken prior to attending class. These are also available at the start of each respective chapter of the lab manual. The activities are designed to test your understanding of the content, and encourage critical thinking about the content that you are about to engage with in class.
+
+The content in this subject will provide you with a foundation of knowledge for applying clinical exercise physiology concepts and methods across a variety of populations. This will recall and develop skills acquired in prior subjects, including Strength & Conditioning, Exercise Physiology, and Exercise Prescription. The activities completed in each lab class will contribute further knowledge relevant to practice in clinical exercise physiology.
+
+This laboratory manual itself does not form part of your assessments for Complex Exercise Physiology. However, it will contribute to the development of understanding of the key concepts and considerations in each topic by guiding your engagement with the activities and discussions conducted in class. The manual will provide an excellent revision resource for your Mid-semester and Final Exams.
+
+Please ensure that you arrive to each class prepared to participate. You must wear enclosed footwear to enter laboratory spaces. Food and drink is not permitted in laboratory spaces, except water bottles or where provided as part of lab activities.
+
+I encourage you to be actively involved in lab classes, whether it be through sharing your opinion in discussion, operating testing equipment, or volunteering to perform exercise. As I'm sure you've experienced in previous subjects, classes become much more rewarding when we have engaging discussions and activities with people readily contributing.
+
+I look forward to working with you all, and hope you enjoy Complex Exercise Management.
+
+Antony
+
+{{< pagebreak >}}
+
+## Lab Schedule {#sec-lab-schedule}
+
+| Week | Monday | Topic                                  |
+|------|--------|----------------------------------------|
+| 1    | 17 Feb | No Classes - Online Only               |
+| 2    | 24 Feb | Functional Musculoskeletal Testing     |
+| 3    | 03 Mar | Physical Activity Tracking & Adherence |
+| 4    | 10 Mar | Cardiac Responses to Exercise (ECG)    |
+| 5    | 17 Mar | Lipids & Blood Chemistry               |
+| 6    | 24 Mar | Cardiovascular Case Studies            |
+| 7    | 31 Mar | Exercise & Mental Health               |
+| 8    | 7 Apr  | Mid-semester Exam                      |
+| MSB  | 14 Apr | No Classes - Mid-semester Break        |
+| 9    | 21 Apr | No Classes - Mid-semester Break        |
+| 10   | 28 Apr | Exercise & Cancer                      |
+| 11   | 5 May  | Exercise & Ageing                      |
+| 12   | 12 May | Neuromuscular Rehabilitation           |
+| 13   | 19 May | DXA & Exercise Modification            |
+| 14   | 26 May | No Classes - Study Leave               |
+

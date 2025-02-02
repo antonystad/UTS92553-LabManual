@@ -1,0 +1,83 @@
+project:
+  type: book
+  output-dir: '_book'
+
+# execute:
+#   freeze: auto
+
+book:
+  title: "92553 Complex Exercise Management"
+  subtitle: "Laboratory Manual 2025"
+  # author:
+    # - name: "Dr Antony Stadnyk"
+      # email: 'antony.stadnyk@uts.edu.au'
+      # affiliation:
+      #   - name:
+      #     - "School of Sport, Exercise & Rehabilitation"
+      #     - "Faculty of Health"
+      #     - "University of Technology Sydney"
+  reader-mode: true
+  page-footer:
+    left: "92553 Complex Exercise Management - Lab Manual"
+    right: "This book was built with <a href='https://quarto.org/'>Quarto</a>"
+  cover-image: images/coverpage.png
+  favicon: images/coverpage.png
+  cookie-consent: false
+  page-navigation: true
+  downloads: pdf
+
+  chapters:
+    - index.qmd
+    - 92553_Lab-Functional.qmd
+    - 92553_Lab-PhysActiv.qmd
+    - 92553_Lab-ECG.qmd
+    - 92553_Lab-Lipids.qmd
+    - 92553_Lab-CVcases.qmd
+    - 92553_Lab-Mental.qmd
+    - 92553_Lab-MidsemExam.qmd
+    - 92553_Lab-Cancer.qmd
+    - 92553_Lab-Ageing.qmd
+    - 92553_Lab-Neuromusc.qmd
+    - 92553_Lab-DXA.qmd
+    - 92553_Lab-Appendices.qmd
+    # - references.qmd
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme: zephyr
+    toc: true
+    toc-depth: 4
+    number-sections: false
+    title-block-banner: true
+    df-print: kable
+    html-table-processing: none
+  pdf:
+    documentclass: scrbook
+    pdf-engine: xelatex
+    classoption:
+      - oneside
+    papersize: A4
+    mainfont: Arial
+    margin-top: 2.5cm
+    margin-bottom: 2.5cm
+    margin-left: 2.5cm
+    margin-right: 2.5cm
+    toc: true
+    number-sections: false
+    colorlinks: true
+    # tbl-colwidths: auto
+    df-print: kable
+    html-table-processing: none
+    # template-partials:
+    #   - before-body.tex
+  # docx:
+  #   toc: true
+  #   toc-depth: 4
+  #   number-sections: false
+  #   fig-align: center
+  #   df-print: kable
+
+editor: visual
+
