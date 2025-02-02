@@ -1,8 +1,7 @@
 ---
 title: "Week 6 - Cardiovascular Case Studies"
+subtitle: "Prescription for Patients with Cardiovascular Disease"
 ---
-
-{{< pagebreak >}}
 
 ## Pre-Lab Activity
 
@@ -14,7 +13,7 @@ Complete the short Diabetes Quiz in your Canvas Modules.
 
 ### Introduction
 
-Within this tutorial you will learn how cardiac rehabilitation programs are implemented. Specifically, you will learn how to assess, screen and prescribe programs for patients with cardiovascular disease through case studies. There will be a discussion about various precautions and contraindications for exercise prescription for CVD.  Students will undertake a series of health screening protocols and discuss their relevance and importance to the safety aspects of clinical exercise physiology along with the need to work within the scope of practice.
+Within this tutorial you will learn how cardiac rehabilitation programs are implemented. Specifically, you will learn how to assess, screen, and prescribe programs for patients with cardiovascular disease through case studies. There will be a discussion about various precautions and contraindications for exercise prescription for CVD.  Students will undertake a series of health screening protocols and discuss their relevance and importance to the safety aspects of clinical exercise physiology along with the need to work within the scope of practice.
 
 The objectives of this lab are to:
 

@@ -3,8 +3,6 @@ title: "Week 2 - Functional Musculoskeletal Testing"
 subtitle: "Assessments for Complex Cases and Special Populations"
 ---
 
-{{< pagebreak >}}
-
 ## Pre-Lab Activity
 
 Please complete the brief quiz to refresh your thinking about some general concepts covered in Exercise Physiology. This quiz is also available in your Canvas modules.
@@ -17,12 +15,9 @@ Please also watch the Canvas content on the profession of Accredited Exercise Ph
 2.  Training for hypertrophy focuses on the concept of time-under-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and uses an approximate rep/set range of \_\_\_\_\_\_\_\_-\_\_\_\_\_\_\_\_ sets of \_\_\_\_\_\_\_\_-\_\_\_\_\_\_\_\_ reps
 
 3.  List at least 4 factors that are defined as positive risk factors in the risk stratification profile\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 4.  Subjective ratings of exertion can be assessed via the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ scale which was devised by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. There are two commonly used scales, with one scale ranging from \_\_\_\_\_\_\_\_-\_\_\_\_\_\_\_\_ and the other ranging from \_\_\_\_\_\_\_\_-\_\_\_\_\_\_\_\_.
 
@@ -149,7 +144,7 @@ In small groups, conduct each of the tests and record your results below.
 In the interest of time, you do not need to complete this test during the lab (typical duration 10-16 minutes). You can use the following values to calculate the estimated VO~2max~ using the equation above.
 
 |  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | **Mass (kg)** | **Age (yr)** | **Gender \[0/1\]** | **Time (min)** | H**R (bpm)** | **EstVO~2max~ (absolute - L.min^-1^)** | **EstVO~2max~ (relative - ml.kg^-1^.min^-1^)** |
 | 77 | 54 | 1 | 13:45 | 137 |  |  |
 |  |  |  |  |  |  |  |

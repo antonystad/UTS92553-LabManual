@@ -3,8 +3,6 @@ title: "Week 10 - Exercise & Cancer"
 subtitle: "The Role of Exercise in the Treatment and Management of Cancer"
 ---
 
-{{< pagebreak >}}
-
 ## Pre-Lab Activity
 
 Read chapter 22 of the textbook which relates to the topic of cancer.

@@ -2,8 +2,6 @@
 title: "Week 8 - Midsemester Exam"
 ---
 
-{{< pagebreak >}}
-
 ## Pre-Lab Activity
 
 This week is the Midsemester Exam, which is conducted in your regular class time.

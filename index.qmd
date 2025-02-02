@@ -37,7 +37,7 @@ Antony
 | 10   | 28 Apr | Exercise & Cancer                      |
 | 11   | 5 May  | Exercise & Ageing                      |
 | 12   | 12 May | Neuromuscular Rehabilitation           |
-| 13   | 19 May | DXA & Exercise Modification            |
+| 13   | 19 May | Osteoporosis & Exercise Modification   |
 | 14   | 26 May | No Classes - Study Leave               |
 
 ## Acknowledgements

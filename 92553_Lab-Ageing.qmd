@@ -3,8 +3,6 @@ title: "Week 11 - Exercise & Ageing"
 subtitle: "Exercise Assessment, Programming, and Delivery for Older Individuals"
 ---
 
-{{< pagebreak >}}
-
 ## Pre-Lab Activity
 
 Read Chapter 33 of the textbook which relates to the topic of older aged populations.

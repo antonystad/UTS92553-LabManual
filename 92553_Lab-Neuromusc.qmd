@@ -3,8 +3,6 @@ title: "Week 12 - Neuromuscular Rehabilitation"
 subtitle: "Electromyostimulation for Rehabilitation and Recovery"
 ---
 
-{{< pagebreak >}}
-
 ## Pre-Lab Activity
 
 Read the following articles, available in your Canvas Modules or by following the links below

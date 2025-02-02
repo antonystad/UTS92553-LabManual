@@ -1,8 +1,7 @@
 ---
 title: "Week 4 - Cardiac Responses to Exercise"
+subtitle: "ECG Assessment and Interpretation"
 ---
-
-{{< pagebreak >}}
 
 ## Pre-Lab Activity
 
