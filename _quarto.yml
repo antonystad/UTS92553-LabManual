@@ -28,8 +28,8 @@ book:
   downloads: pdf
   comments:
     hypothesis:
-      theme: clean
-      openSidebar: true
+      theme: classic
+      openSidebar: false
       showHighlights: whenSidebarOpen
 
   chapters:
