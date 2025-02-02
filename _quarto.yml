@@ -80,5 +80,11 @@ format:
   #   fig-align: center
   #   df-print: kable
 
+comments:
+  hypothesis:
+    theme: clean
+    showHighlights: whenSidebarOpen
+
+
 editor: visual
 
