@@ -1,8 +1,7 @@
 ---
 title: "Week 7 - Exercise & Mental Health"
+subtitle: "Designing Physical Activity Interventions for People Living with Mental Health Conditions"
 ---
-
-{{< pagebreak >}}
 
 ## Pre-Lab Activity
 
@@ -24,7 +23,7 @@ The topic and content covered in this lab session may cause discomfort or distre
 
 Mental illness is extremely common in Australia - 1 in 5 adults and 1 in 7 young people experience a mental health disorder in any year. These include anxiety, depression, and substance use disorders, and contribute to the increased burden for the individual, their community, and the health system. Many people will live with mental illness for long periods, and it is often associated with co-morbidities, including cardiovascular disease and diabetes (Vancampfort et al., 2015). These contribute to the increase in disability adjusted life years (DALY) and life expectancy is \~15 years less than in those not living with mental illness (Lawrence et al., 2013).
 
-As with any clinical population, there are important considerations to make when assessing, prescribing, and delivering exercise programs for older individuals. The objectives of this lab are to:
+As with any clinical population, there are important considerations to make when assessing, prescribing, and delivering exercise programs for individuals living with mental health disorders. The objectives of this lab are to:
 
 -   Explore the impact of mental ill-health on our well-being, including its effects on physical health
 
@@ -36,7 +35,7 @@ Targeting modifiable risk factors, such as diet and smoking, are important steps
 
 Physical activity interventions can be impactful, safe, and cost-effective. However, there are challenge, including compliance, adherence, and reproducibility. It's also important to note that exercise may not always be as effective as medication or therapy, and shouldn't necessarily be a first choice for treatment (Fabiano, Puder & Stubbs, 2024). However, exercise should form part of an intervention plan, because it impacts mental, physical, and cardiometabolic health.
 
-![Image: Exercise & Sport Science Australia](images/Mental_essa.png){alt="Image: Exercise & Sport Science Australia" fig-align="center" width="100%"}
+![Image: Exercise & Sport Science Australia](images/Mental_essa.png){fig-align="center" width="100%"}
 
 ##### Lab Question 1
 
