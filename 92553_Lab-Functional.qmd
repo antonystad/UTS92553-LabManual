@@ -116,24 +116,24 @@ In small groups, conduct each of the tests and record your results below.
 
 | Test                          | Trial 1 (secs) | Trial 2 (secs) |
 |-------------------------------|----------------|----------------|
-| Sit-to-Stand                  |                |                |
-| Timed Up and Go               |                |                |
-| 10m Fast Walk (5-metre time)  |                |                |
-| 10m Fast Walk (10-metre time) |                |                |
-| Stair Test                    |                |                |
+| Sit-to-Stand                  | \_\_           | \_\_           |
+| Timed Up and Go               | \_\_           | \_\_           |
+| 10m Fast Walk (5-metre time)  | \_\_           | \_\_           |
+| 10m Fast Walk (10-metre time) | \_\_           | \_\_           |
+| Stair Test                    | \_\_           | \_\_           |
 
-: {.striped .hover}
+: {.striped tbl-colwidths="\[50,25,25\]"}
 
 ##### 15-second Balance Tests
 
 | Trial | Trial 1 (Foot Touchdowns) | Trial 2 (Foot Touchdowns) |
 |----|----|----|
-| Right Foot, Eyes Open |  |  |
-| Left Foot, Eyes Open |  |  |
-| Right Foot, Eyes Closed |  |  |
-| Left Foot, Eyes Closed |  |  |
+| Right Foot, Eyes Open | \_\_ | \_\_ |
+| Left Foot, Eyes Open | \_\_ | \_\_ |
+| Right Foot, Eyes Closed | \_\_ | \_\_ |
+| Left Foot, Eyes Closed | \_\_ | \_\_ |
 
-: {.striped .hover}
+: {.striped tbl-colwidths="\[50,25,25\]"}
 
 ::: {.callout-note appearance="simple"}
 ## Circle/highlight the best trial result in each test
@@ -143,13 +143,11 @@ In small groups, conduct each of the tests and record your results below.
 
 In the interest of time, you do not need to complete this test during the lab (typical duration 10-16 minutes). You can use the following values to calculate the estimated VO~2max~ using the equation above.
 
-|  |  |  |  |  |  |  |
+| Mass (kg) | Age (yr) | Gender \[0/1\] | Time (min) | HR (bpm) | EstVO~2max~ (absolute - L.min^-1^) | EstVO~2max~ (relative - ml.kg^-1^.min^-1^) |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| **Mass (kg)** | **Age (yr)** | **Gender \[0/1\]** | **Time (min)** | H**R (bpm)** | **EstVO~2max~ (absolute - L.min^-1^)** | **EstVO~2max~ (relative - ml.kg^-1^.min^-1^)** |
-| 77 | 54 | 1 | 13:45 | 137 |  |  |
-|  |  |  |  |  |  |  |
+| 77 | 54 | 1 | 13:45 | 137 | \_\_ | \_\_ |
 
-: {.striped .hover}
+: {.striped}
 
 {{< pagebreak >}}
 

@@ -25,7 +25,7 @@ book:
   favicon: images/coverpage.png
   cookie-consent: false
   page-navigation: true
-  downloads: pdf
+  downloads: [pdf, docx]
   comments:
     hypothesis:
       theme: classic
@@ -78,12 +78,12 @@ format:
     html-table-processing: none
     # template-partials:
     #   - before-body.tex
-  # docx:
-  #   toc: true
-  #   toc-depth: 4
-  #   number-sections: false
-  #   fig-align: center
-  #   df-print: kable
+  docx:
+    toc: true
+    toc-depth: 4
+    number-sections: false
+    fig-align: center
+    df-print: kable
 
 
 editor: visual

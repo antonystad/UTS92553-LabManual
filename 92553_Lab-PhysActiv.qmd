@@ -72,7 +72,7 @@ While completing the remaining lab activities, put yourself in the shoes of an i
 The Duke Activity Status Index is a self-administered questionnaire that measures a patient's functional capacity. It can be used to estimate a patient's peak oxygen uptake. Please note that this test is for the non-healthy population, therefore, results for the healthy population will be under-estimated.
 
 | Item | Activity | Yes | No |
-|:--:|:--------------------------------|:--:|:--:|
+|:----------------:|:-----------------|:----------------:|:----------------:|
 | 1 | Can you take care of yourself (eating dressing bathing or using the toilet)? | 2.75 | 0 |
 | 2 | Can you walk indoors such as around your house? | 1.75 | 0 |
 | 3 | Can you walk a block or two on level ground? | 2.75 | 0 |
@@ -85,6 +85,8 @@ The Duke Activity Status Index is a self-administered questionnaire that measure
 | 10 | Can you have sexual relations? | 5.25 | 0 |
 | 11 | Can you participate in moderate recreational activities like golf bowling dancing doubles tennis or throwing a baseball or football? | 6 | 0 |
 | 12 | Can you participate in strenuous sports like swimming singles tennis football basketball or skiing? | 7.5 | 0 |
+
+: {.striped tbl-colwidths="\[10,70,10,10\]"}
 
 Read each question in the *Activity* column and circle the value corresponding to your response in the *Yes/No* columns.
 
@@ -113,6 +115,8 @@ If you do not currently do the activity in question, try to imagine how confiden
 |                0 | 10  | 20  | 30  | 40  | 50  | 60  | 70  | 80  | 90  | 100            |
 | Cannot do at all |     |     |     |     |     |     |     |     |     | Certain can do |
 
+: {.striped tbl-colwidths="\[27.5,5,5,5,5,5,5,5,5,5,27.5\]"}
+
 **How confident are you that you will not lose your balance or become unsteady when you:**
 
 |                                                           |          |
@@ -135,6 +139,8 @@ If you do not currently do the activity in question, try to imagine how confiden
 | Walk outside on wet sidewalks                             | \_\_\_\_ |
 | **Total**                                                 | \_\_\_\_ |
 
+: {.striped tbl-colwidths="\[90,10\]"}
+
 {{< pagebreak >}}
 
 ##### Self-Efficacy for Exercise (SEE) Scale
@@ -154,6 +160,8 @@ This scale is a self-report of exercise self-efficacy (Resnick & Jenkins, 2000).
 | 7\. You felt tired | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | 8\. You felt stressed | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | 9\. You felt depressed | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+
+: {.striped tbl-colwidths="\[53,10,3,3,3,3,3,3,3,3,3,10\]"}
 
 **SEE Total Score:** \_\_\_\_\_\_\_\_
 
@@ -208,6 +216,8 @@ Below are statements that relate to ideas about exercise. Please indicate the de
 | 41\. Exercise improves overall body functioning for me. | SA | A | D | SD |
 | 42\. There are too few places for me to exercise. | SA | A | D | SD |
 | 43\. Exercise improves the way my body looks. | SA | A | D | SD |
+
+: {.striped tbl-colwidths="\[80,5,5,5\]"}
 
 {{< pagebreak >}}
 
@@ -371,7 +381,7 @@ The reliability of pedometers and GPS monitors have been published previously. I
 
 ### Results
 
-![](images/PhysActiv_DataCollection.pdf){.rotate-img fig-align="center"}
+![For Online Lab Manual users: Right-click and save to download](images/PhysActiv_DataCollection.pdf){fig-align="center" height="100%"}
 
 {{< pagebreak >}}
 
@@ -384,13 +394,15 @@ To calculate the percentage difference you need to use the following formula:
 :::
 
 | Percentage difference | Slow Walk | Fast Walk | Running |
-|----|----|----|----|
-| 1 Cheap Pedometer-reported steps vs Actual steps |  |  |  |
-| 2 Phone Pedometer-reported steps vs Actual steps |  |  |  |
-| 3 Cheap Pedometer distance vs Actual distance |  |  |  |
-| 4 Phone Pedometer distance vs Actual distance |  |  |  |
-| 5 GPS distance vs Actual distance |  |  |  |
-| Cheap Pedometer vs Phone Pedometer steps |  |  |  |
+|------------------|------------------|------------------|------------------|
+| 1 Cheap Pedometer-reported steps vs Actual steps | \_\_ | \_\_ | \_\_ |
+| 2 Phone Pedometer-reported steps vs Actual steps | \_\_ | \_\_ | \_\_ |
+| 3 Cheap Pedometer distance vs Actual distance | \_\_ | \_\_ | \_\_ |
+| 4 Phone Pedometer distance vs Actual distance | \_\_ | \_\_ | \_\_ |
+| 5 GPS distance vs Actual distance | \_\_ | \_\_ | \_\_ |
+| Cheap Pedometer vs Phone Pedometer steps | \_\_ | \_\_ | \_\_ |
+
+: {.striped tbl-colwidths="\[70,10,10,10\]"}
 
 {{< pagebreak >}}
 

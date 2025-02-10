@@ -66,9 +66,7 @@ Blood chemistry is often assessed in a fasted state. This removes the acute natu
 #### Equipment
 
 -   Cardiochek PA analyser
-
 -   PTS Lipid panel test strips
-
 -   Blood sampling equipment (gloves, alcohol wipes, lancets, gauze, tissues)
 
 #### Procedure
@@ -153,11 +151,11 @@ e.g., name, age, health history\
 
 | Variable          | Result |
 |-------------------|--------|
-| Total Cholesterol |        |
-| Triglycerides     |        |
-| HDL Cholesterol   |        |
-| LDL Cholesterol   |        |
-| TC:HDL Ratio      |        |
+| Total Cholesterol | \_\_   |
+| Triglycerides     | \_\_   |
+| HDL Cholesterol   | \_\_   |
+| LDL Cholesterol   | \_\_   |
+| TC:HDL Ratio      | \_\_   |
 
 #### Comments
 
@@ -182,11 +180,11 @@ In your pairs, generate pre-post test data for a hypothetical patient who presen
 
 | Variable          | Pre-Intervention | Post-Intervention |
 |-------------------|------------------|-------------------|
-| Total Cholesterol |                  |                   |
-| Triglycerides     |                  |                   |
-| HDL Cholesterol   |                  |                   |
-| LDL Cholesterol   |                  |                   |
-| TC:HDL Ratio      |                  |                   |
+| Total Cholesterol | \_\_             | \_\_              |
+| Triglycerides     | \_\_             | \_\_              |
+| HDL Cholesterol   | \_\_             | \_\_              |
+| LDL Cholesterol   | \_\_             | \_\_              |
+| TC:HDL Ratio      | \_\_             | \_\_              |
 
 Write an exercise management plan for this patient, taking into account diet, lifestyle, exercise, and medications. Use internet searches or GenAI to identify some common medications. Provide some examples of exercise sessions you would include to provide a sufficient stimulus to improve their cardiovascular and metabolic fitness, and describe why these would be effective for improving the patient's lipid profile.\
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
