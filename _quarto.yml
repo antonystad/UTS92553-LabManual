@@ -58,7 +58,7 @@ format:
     number-sections: false
     title-block-banner: true
     df-print: kable
-    html-table-processing: none
+    # html-table-processing: none
   pdf:
     documentclass: scrbook
     pdf-engine: xelatex
@@ -75,7 +75,7 @@ format:
     colorlinks: true
     # tbl-colwidths: auto
     df-print: kable
-    html-table-processing: none
+    # html-table-processing: none
     # template-partials:
     #   - before-body.tex
   docx:

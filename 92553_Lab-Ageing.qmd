@@ -39,19 +39,19 @@ As with any clinical population, there are important considerations to make when
 
 Between the ages of 20 and 80, there is typically a 50% decrease in Maximal Aerobic Capacity. The factors contributing to this remarkable decrease in cardiorespiratory fitness include: decreased a-vO~2~ difference, heart rate, and cardiac output, increased systemic vascular resistance and end-diastolic volume, and decreased cardiac contractility and ejection fraction. Overall, these result in increased blood pressure, less cardiac efficiency, and less ability to supply oxygen to the working muscles.
 
-![From Hojman, et al. (2018). Molecular Mechanisms Linking Exercise to Cancer Prevention and Treatment. Cell Metabolism, 27(1), 10–21. https://doi.org/10.1016/j.cmet.2017.09.015](images/Ageing_tab33_01.png){fig-align="center" width="100%"}
+![From Ehrman, J. K., Gordon, P. M., Visich, P. S., & Keteyian, S. J. (Eds.). (2023). Chapter 33. Clinical exercise physiology: Exercise management of chronic diseases and special populations (5th Ed). Human Kinetics.](images/Ageing_tab33_01.png){fig-align="center" width="100%"}
 
 {{< pagebreak >}}
 
 #### Functional Capacity Assessments
 
-![From Hojman, et al. (2018). Molecular Mechanisms Linking Exercise to Cancer Prevention and Treatment. Cell Metabolism, 27(1), 10–21. https://doi.org/10.1016/j.cmet.2017.09.015](images/Ageing_tab33_02.png){fig-align="center"}
+![From Ehrman, J. K., Gordon, P. M., Visich, P. S., & Keteyian, S. J. (Eds.). (2023). Chapter 33. Clinical exercise physiology: Exercise management of chronic diseases and special populations (5th Ed). Human Kinetics.](images/Ageing_tab33_02.png){fig-align="center"}
 
 {{< pagebreak >}}
 
 #### Exercise Prescription for Older Patients
 
-![From Hojman, et al. (2018). Molecular Mechanisms Linking Exercise to Cancer Prevention and Treatment. Cell Metabolism, 27(1), 10–21. https://doi.org/10.1016/j.cmet.2017.09.015](images/Ageing_tab33_03.png){fig-align="center"}
+![From Ehrman, J. K., Gordon, P. M., Visich, P. S., & Keteyian, S. J. (Eds.). (2023). Chapter 33. Clinical exercise physiology: Exercise management of chronic diseases and special populations (5th Ed). Human Kinetics.](images/Ageing_tab33_03.png){fig-align="center"}
 
 {{< pagebreak >}}
 

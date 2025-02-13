@@ -33,9 +33,9 @@ As with any clinical population, there are important considerations to make when
 
 Targeting modifiable risk factors, such as diet and smoking, are important steps to reducing the negative effects on cardiometabolic health. And. while the impacts of exercise on reducing cardiometabolic disease risk are well established, there is also growing recognition of the impact of physical activity on mental health and illness (Rosenbaum et al., 2014). Research indicates that physical activity interventions have positive effects on mental illness symptoms in individuals living with anxiety, depression, schizophrenia, post-traumatic stress, and substance used disorders (Csoznek et al., 2018). Benefits can include a reduction in symptoms experienced, and improvements in individuals' engagement with mental healthcare services (Richardson et al., 2005).
 
-Physical activity interventions can be impactful, safe, and cost-effective. However, there are challenge, including compliance, adherence, and reproducibility. It's also important to note that exercise may not always be as effective as medication or therapy, and shouldn't necessarily be a first choice for treatment (Fabiano, Puder & Stubbs, 2024). However, exercise should form part of an intervention plan, because it impacts mental, physical, and cardiometabolic health.
+Physical activity interventions can be impactful, safe, and cost-effective. However, there are challenge, including compliance, adherence, and reproducibility. It's also important to note that exercise may not always be as effective as medication or therapy, and shouldn't necessarily be a first choice for treatment (Fabiano, Puder & Stubbs, 2024). However, exercise should almost always form part of an intervention plan because it has broad impacts for mental, physical, and cardiometabolic health.
 
-![Image: Exercise & Sport Science Australia](images/Mental_essa.png){fig-align="center" width="100%"}
+![](images/Mental_essa.png){fig-align="center" width="100%"}
 
 ##### Lab Question 1
 
@@ -52,8 +52,9 @@ and, Mental Illness is...
 \
 \
 \
+\
 
-![Image: Life in Mind](images/Mental_lifeinmind1.png){width="10cm"}
+![Image: Life in Mind](images/Mental_lifeinmind1.png){width="75%"}
 
 {{< pagebreak >}}
 
@@ -102,7 +103,14 @@ Throughout the activity, the lab tutors will be roaming around to discuss your p
 
 ### Discussion
 
-#### Future Learning Opportunities
+The terms "trigger warning" or "triggers" are often used to alert a person/group to something about to be presented or mentioned that may cause distress. Do you think the use of these terms is appropriate or even necessary? Why could they be beneficial or harmful?
+
+\
+\
+\
+\
+
+#### Further Learning Opportunities
 
 -   [Mental Health First Aid](https://www.mhfa.com.au)
 
