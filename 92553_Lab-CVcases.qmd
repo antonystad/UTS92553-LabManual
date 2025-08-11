@@ -7,6 +7,12 @@ subtitle: "Prescription for Patients with Cardiovascular Disease"
 
 Complete the short Diabetes Quiz in your Canvas Modules.
 
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+
 {{< pagebreak >}}
 
 ## Lab Session
@@ -111,12 +117,42 @@ In pairs, answer the following questions.
 
 ##### Lab Question 1
 
-List 2 essential components of a Cardiac Rehabilitation Initial Assessment:\
-\
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td><b>List 2 essential components of a Cardiac Rehabilitation Initial Assessment:</b></th>
+      </tr>
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-##### Lab Question 2
+#####  Lab Question 2
 
-What are two clinical exercise capacity assessments you could apply in a CR setting?\
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td><b>What are two clinical exercise capacity assessments you could apply in a CR setting?</b></th>
+      </tr>
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
 \
 
 {{< pagebreak >}}
@@ -247,15 +283,42 @@ Below are some refresher examples of appropriate prescription for cardiac rehabi
 
 ##### Lab Question 3
 
-List 2 absolute and 2 relative contraindications to exercise\
-\
-\
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td><b>List 2 absolute and 2 relative contraindications to exercise</b></th>
+      </tr>
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-##### Lab Question 4
+#####  Lab Question 4
 
-What are two precautions for a patient 3 weeks post CABG?\
-\
-\
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td><b>What are two precautions for a patient 3 weeks post CABG?</b></th>
+      </tr>
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
 \
 
 {{< pagebreak >}}
@@ -280,19 +343,359 @@ Cathy is a 62-year old female with Coronary Artery Disease.
 
 Cathy attends your Cardiac Rehabilitation program 3 weeks post-operation for a double bypass. In her discharge summary from hospital you read the following findings: LDL 1.6 mmol/L; waist circumference 85 cm; resting BP 135/85; and, resting HR 65bpm. Medications on discharge: Atorvastatin (Lipitor – cholesterol lowering medication), Captopril (ACE inhibitor – BP lowering medication), and Sertraline (Selective Serotonin Reuptake Inhibitors – Antidepressant). On another GP letter you find further information on her history of sedentary behaviour due to a busy corporate career as a lawyer and depression since her mother recently passed away from a heart attack.
 
-##### Exercise Management Plan
+```{=html}
+<table>
+  <colgroup>
+      <col style="width:30%">
+      <col style="width:70%">
+  </colgroup>
+    <thead>
+      <tr style="background-color: #CAEEFB; text-align:center">
+        <th colspan="2"><b>Exercise Management Plan</b></th>
+      </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td><b>Risk Category</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Precautions/Monitoring Methods</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Pre and Postexercise Capacity Assessments</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**Risk Category:**
+\
 
-**Precautions/Monitoring Methods:**
+```{=html}
+<table>
+  <colgroup>
+    <col style="width:20%">
+    <col style="width:80%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr style="background-color: #CAEEFB">
+          <td colspan="2" style="text-align:center"><b>SMART Goals</b></td>
+        </tr>
+        <tr>
+            <td><b>Short Term</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Long Term</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**Pre and Post Exercise Capacity Assessments:**
+\
 
-![](images/CVcases_goals.png){fig-align="center" width="12.5cm"}
+```{=html}
+<table>
+  <thead>
+  </thead>
+  <tbody style="border-bottom: 1px solid #ddd">
+    <tr style="background-color: #CAEEFB">
+      <td style="text-align:right"><b>Exercise Goal</b></td>
+      <td colspan="4" style="text-align:center"><b>Aerobic</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Max HR</b></td>
+      <td><div contenteditable>bpm</div></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td style="text-align:right"><b>Week</b></td>
+      <td><b>1</b></td>
+      <td><b>2</b></td>
+      <td><b>3</b></td>
+      <td><b>4</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Days per Week</b></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Warm Up & Cool Down</b></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Type</b><br>
+        <b>Intensity</b><br>
+        HR<br>
+        RPE<br>
+        <b>Time</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Type</b><br>
+        <b>Intensity</b><br>
+        HR<br>
+        RPE<br>
+        <b>Time</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Type</b><br>
+        <b>Intensity</b><br>
+        HR<br>
+        RPE<br>
+        <b>Time</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Type</b><br>
+        <b>Intensity</b><br>
+        HR<br>
+        RPE<br>
+        <b>Time</b><br>
+        </div></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Type/Mode</b></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Intensity</b></td>
+      <td style="text-align:left"><div contenteditable>
+        HR<br>
+        RPE<br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        HR<br>
+        RPE<br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        HR<br>
+        RPE<br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        HR<br>
+        RPE<br>
+        </div></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Time</b></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+  </tbody>
+</table>
+```
 
-![](images/CVcases_rx1.png){fig-align="center" width="12.5cm"}
+\
 
-![](images/CVcases_rx2.png){fig-align="center" width="12.5cm"}
+```{=html}
+<table>
+  <thead>
+  </thead>
+  <tbody style="border-bottom: 1px solid #ddd">
+    <tr style="background-color: #CAEEFB">
+      <td style="text-align:right"><b>Exercise Goal</b></td>
+      <td colspan="4" style="text-align:center"><b>Strength</b></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td style="text-align:right"><b>Week</b></td>
+      <td><b>1</b></td>
+      <td><b>2</b></td>
+      <td><b>3</b></td>
+      <td><b>4</b></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td colspan="5" style="text-align:left"><b>Upper Body</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Exercises<div contenteditable>-<br>-<br>-<br>-</div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td colspan="5" style="text-align:left"><b>Lower Body</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Exercises<div contenteditable>-<br>-<br>-<br>-</div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td colspan="5" style="text-align:left"><b>Core</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Exercises<div contenteditable>-<br>-<br>-<br>-</div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td colspan="5" style="text-align:left"><b>Functional</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Exercises<div contenteditable>-<br>-<br>-<br>-</div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td colspan="5" style="text-align:left"><b>Flexibility</b> before every session</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Exercises<div contenteditable>-<br>-<br>-<br>-</div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        <b>Time</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        <b>Time</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        <b>Time</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        <b>Time</b><br>
+        <b>Reps</b><br>
+        </div></td>
+    </tr>
+  </tbody>
+</table>
+```
+
+\
 
 {{< pagebreak >}}
 
@@ -304,21 +707,365 @@ Lisa attends a Cardiac Centre for a health and risk factor assessment. Her seden
 
 What would the cardiac risk factors entail for this patient and please provide a plan for improving health outcomes without relying upon medication in the first instance.
 
-##### Exercise Management Plan
+```{=html}
+<table>
+  <colgroup>
+      <col style="width:30%">
+      <col style="width:70%">
+  </colgroup>
+    <thead>
+      <tr style="background-color: #CAEEFB; text-align:center">
+        <th colspan="2"><b>Exercise Management Plan</b></th>
+      </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td><b>Risk Category</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Precautions/Monitoring Methods</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Pre and Postexercise Capacity Assessments</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**Risk Category:**
+\
 
-**Precautions/Monitoring Methods:**
+```{=html}
+<table>
+  <colgroup>
+    <col style="width:20%">
+    <col style="width:80%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr style="background-color: #CAEEFB">
+          <td colspan="2" style="text-align:center"><b>SMART Goals</b></td>
+        </tr>
+        <tr>
+            <td><b>Short Term</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Long Term</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**Pre and Post Exercise Capacity Assessments:**
+\
 
-![](images/CVcases_goals.png){fig-align="center" width="12.5cm"}
+```{=html}
+<table>
+  <thead>
+  </thead>
+  <tbody style="border-bottom: 1px solid #ddd">
+    <tr style="background-color: #CAEEFB">
+      <td style="text-align:right"><b>Exercise Goal</b></td>
+      <td colspan="4" style="text-align:center"><b>Aerobic</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Max HR</b></td>
+      <td><div contenteditable>bpm</div></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td style="text-align:right"><b>Week</b></td>
+      <td><b>1</b></td>
+      <td><b>2</b></td>
+      <td><b>3</b></td>
+      <td><b>4</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Days per Week</b></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Warm Up & Cool Down</b></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Type</b><br>
+        <b>Intensity</b><br>
+        HR<br>
+        RPE<br>
+        <b>Time</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Type</b><br>
+        <b>Intensity</b><br>
+        HR<br>
+        RPE<br>
+        <b>Time</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Type</b><br>
+        <b>Intensity</b><br>
+        HR<br>
+        RPE<br>
+        <b>Time</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Type</b><br>
+        <b>Intensity</b><br>
+        HR<br>
+        RPE<br>
+        <b>Time</b><br>
+        </div></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Type/Mode</b></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Intensity</b></td>
+      <td style="text-align:left"><div contenteditable>
+        HR<br>
+        RPE<br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        HR<br>
+        RPE<br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        HR<br>
+        RPE<br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        HR<br>
+        RPE<br>
+        </div></td>
+    </tr>
+    <tr>
+      <td style="text-align:right"><b>Time</b></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+  </tbody>
+</table>
+```
 
-{{< pagebreak >}}
+\
 
-![](images/CVcases_rx1.png){fig-align="center" width="12.5cm"}
+```{=html}
+<table>
+  <thead>
+  </thead>
+  <tbody style="border-bottom: 1px solid #ddd">
+    <tr style="background-color: #CAEEFB">
+      <td style="text-align:right"><b>Exercise Goal</b></td>
+      <td colspan="4" style="text-align:center"><b>Strength</b></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td style="text-align:right"><b>Week</b></td>
+      <td><b>1</b></td>
+      <td><b>2</b></td>
+      <td><b>3</b></td>
+      <td><b>4</b></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td colspan="5" style="text-align:left"><b>Upper Body</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Exercises<div contenteditable>-<br>-<br>-<br>-</div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td colspan="5" style="text-align:left"><b>Lower Body</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Exercises<div contenteditable>-<br>-<br>-<br>-</div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td colspan="5" style="text-align:left"><b>Core</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Exercises<div contenteditable>-<br>-<br>-<br>-</div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td colspan="5" style="text-align:left"><b>Functional</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Exercises<div contenteditable>-<br>-<br>-<br>-</div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        Load%<br>
+        <b>Sets</b><br>
+        <b>Reps</b><br>
+        </div></td>
+    </tr>
+    <tr style="background-color: #CAEEFB">
+      <td colspan="5" style="text-align:left"><b>Flexibility</b> before every session</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Exercises<div contenteditable>-<br>-<br>-<br>-</div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        <b>Time</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        <b>Time</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        <b>Time</b><br>
+        <b>Reps</b><br>
+        </div></td>
+      <td style="text-align:left"><div contenteditable>
+        <b>Intensity</b><br>
+        RPE/RIR<br>
+        <b>Time</b><br>
+        <b>Reps</b><br>
+        </div></td>
+    </tr>
+  </tbody>
+</table>
+```
 
-![](images/CVcases_rx2.png){fig-align="center" width="12.5cm"}
+\
+
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
 
 {{< pagebreak >}}
 

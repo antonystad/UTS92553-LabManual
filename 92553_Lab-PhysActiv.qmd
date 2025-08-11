@@ -17,6 +17,12 @@ The in class activities require the use of a health and fitness phone app that i
 
 Write your notes from the talk you chose AND the activity logging devices you reviewed below.
 
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+
 {{< pagebreak >}}
 
 ## Lab Session - Part A
@@ -51,15 +57,38 @@ This link provides a simple online cardiovascular disease risk assessment tool d
 
 [cvdcheck.org.au](https://www.cvdcheck.org.au/)
 
-The site also provides useful guidelines and resources for health professionals and the general public.
+The site also provides useful guidelines and resources for health professionals and the general public.\
+\
 
-##### **Lab Question 1**
+##### Lab Question 1
 
-**Are questionnaires such as this valuable to the general population? List some positive and negative aspects of undertaking such a quiz below**
-
-**Positives:** **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-**Negatives: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+```{=html}
+<table>
+  <colgroup>
+      <col style="width:20%">
+      <col style="width:80%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td colspan="2"><b>Are questionnaires such as this valuable to the general population? List some positive and negative aspects of undertaking such a quiz below</b></td>
+      </tr>
+        <tr>
+            <td><b>Positives:</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Negatives:</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
 {{< pagebreak >}}
 
@@ -71,36 +100,149 @@ While completing the remaining lab activities, put yourself in the shoes of an i
 
 The Duke Activity Status Index is a self-administered questionnaire that measures a patient's functional capacity. It can be used to estimate a patient's peak oxygen uptake. Please note that this test is for the non-healthy population, therefore, results for the healthy population will be under-estimated.
 
-| Item | Activity | Yes | No |
-|:----------------:|:-----------------|:----------------:|:----------------:|
-| 1 | Can you take care of yourself (eating dressing bathing or using the toilet)? | 2.75 | 0 |
-| 2 | Can you walk indoors such as around your house? | 1.75 | 0 |
-| 3 | Can you walk a block or two on level ground? | 2.75 | 0 |
-| 4 | Can you climb a flight of stairs or walk up a hill? | 5.5 | 0 |
-| 5 | Can you run a short distance? | 8 | 0 |
-| 6 | Can you do light work around the house like dusting or washing dishes? | 2.7 | 0 |
-| 7 | Can you do moderate work around the house like vacuuming sweeping floors or carrying in groceries? | 3.5 | 0 |
-| 8 | Can you do heavy work around the house like scrubbing floors or lifting and moving heavy furniture? | 8 | 0 |
-| 9 | Can you do yardwork like raking leaves weeding or pushing a power mower? | 4.5 | 0 |
-| 10 | Can you have sexual relations? | 5.25 | 0 |
-| 11 | Can you participate in moderate recreational activities like golf bowling dancing doubles tennis or throwing a baseball or football? | 6 | 0 |
-| 12 | Can you participate in strenuous sports like swimming singles tennis football basketball or skiing? | 7.5 | 0 |
+Read each question in the *Activity* column and select the value corresponding to your response in the *Yes/No* columns.
 
-: {.striped tbl-colwidths="\[10,70,10,10\]"}
+Once complete, sum the values circled and write it in the Total row. You can then use this number to calculate estimated peak oxygen uptake (VO~2peak~).
 
-Read each question in the *Activity* column and circle the value corresponding to your response in the *Yes/No* columns.
+```{=html}
+<table style="width:100%">
+    <caption>Duke Activity Status Index (DASI)</caption>
+    <colgroup>
+        <col style="width:10%">
+        <col style="width:80%">
+        <col style="width:5%">
+        <col style="width:5%">
+    </colgroup>
+    
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th>Activity</th>
+            <th>Yes</th>
+            <th>No</th>
+        </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td>1</td>
+            <td>Can you take care of yourself (eating dressing bathing or using the toilet)? </td>
+            <td>2.75 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Can you walk indoors such as around your house? </td>
+            <td>1.75 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Can you walk a block or two on level ground? </td>
+            <td>2.75 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Can you climb a flight of stairs or walk up a hill? </td>
+            <td>5.50 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Can you run a short distance? </td>
+            <td>8.00 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Can you do light work around the house like dusting or washing dishes? </td>
+            <td>2.70 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Can you do moderate work around the house like vacuuming sweeping floors or carrying in groceries? </td>
+            <td>3.50 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Can you do heavy work around the house like scrubbing floors or lifting and moving heavy furniture? </td>
+            <td>8.00<input type="checkbox" /></td>
+            <td>0<input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Can you do yardwork like raking leaves weeding or pushing a power mower? </td>
+            <td>4.50 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Can you have sexual relations? </td>
+            <td>5.25 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Can you participate in moderate recreational activities like golf bowling dancing doubles tennis or throwing a baseball or football? </td>
+            <td>6.00 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Can you participate in strenuous sports like swimming singles tennis football basketball or skiing? </td>
+            <td>7.50 <input type="checkbox" /></td>
+            <td>0 <input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td colspan="1"><b>Total</b></td>
+            <td colspan="2"><div contenteditable></div></td>
+        </tr>
+      </tbody>
+</table>
+```
 
-Once complete, sum the values circled and write it below. You can then use this number to calculate estimated peak oxygen uptake (VO~2peak~).
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td colspan="3" style="width=80%; text-align: right">
+                <div>Estimated VO<sub>2peak</sub> (ml/kg/min) = 0.43 × DASI Score + 9.6 =</div>
+            </td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**Total of DASI questionnaire:** \_\_\_\_\_\_\_\_
-
-> Estimated VO~2peak~ (ml/kg/min) = *0.43 × DASI Score + 9.6* = \_\_\_\_\_\_\_\_
+\
 
 ##### Lab Question 2
 
-**What are some limitations to the use of the DASI?**
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <th colspan="1"><b>What are some limitations to the use of the DASI?</b></th>
+        </tr>
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\
 
 {{< pagebreak >}}
 
@@ -117,29 +259,113 @@ If you do not currently do the activity in question, try to imagine how confiden
 
 : {.striped tbl-colwidths="\[27.5,5,5,5,5,5,5,5,5,5,27.5\]"}
 
-**How confident are you that you will not lose your balance or become unsteady when you:**
+```{=html}
+<table>
+    <caption>Activities-Specific Balance Confidence (ABC) Scale</caption>
+    <colgroup>
+      <col style="width:90%">
+      <col style="width:10%">
+    </colgroup>
+    <thead>
+        <tr>
+          <th colspan="2">How confident are you that you will not lose your balance or become unsteady when you:</th> 
+        </tr>
+        <tr>
+            <th>Activity</th>
+            <th>Confidence</th>
+        </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td>Walk around the house</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Walk up and down the stairs</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Bend over and pick up a slipper from the floor</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Reach for a small can off a shelf at eye level</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Stand on your tiptoes and reach for something</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Stand on a chair to reach for something</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Sweep the floor</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Walk outside to a nearby car</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Get in and out of a car</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Walk across a parking lot</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Walk up and down a ramp</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Walk in a crowded mall where people rapidly walk past you</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Are bumped into by people as you walk through the mall</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Use an escalator holding the rail</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Use an escalator not holding the rail</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>Walk outside on wet sidewalks</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Total</b></td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-|                                                           |          |
-|-----------------------------------------------------------|----------|
-| Walk around the house                                     | \_\_\_\_ |
-| Walk up and down the stairs                               | \_\_\_\_ |
-| Bend over and pick up a slipper from the floor            | \_\_\_\_ |
-| Reach for a small can off a shelf at eye level            | \_\_\_\_ |
-| Stand on your tiptoes and reach for something             | \_\_\_\_ |
-| Stand on a chair to reach for something                   | \_\_\_\_ |
-| Sweep the floor                                           | \_\_\_\_ |
-| Walk outside to a nearby car                              | \_\_\_\_ |
-| Get in and out of a car                                   | \_\_\_\_ |
-| Walk across a parking lot                                 | \_\_\_\_ |
-| Walk up and down a ramp                                   | \_\_\_\_ |
-| Walk in a crowded mall where people rapidly walk past you | \_\_\_\_ |
-| Are bumped into by people as you walk through the mall    | \_\_\_\_ |
-| Use an escalator holding the rail                         | \_\_\_\_ |
-| Use an escalator not holding the rail                     | \_\_\_\_ |
-| Walk outside on wet sidewalks                             | \_\_\_\_ |
-| **Total**                                                 | \_\_\_\_ |
-
-: {.striped tbl-colwidths="\[90,10\]"}
+\
 
 {{< pagebreak >}}
 
@@ -147,103 +373,551 @@ If you do not currently do the activity in question, try to imagine how confiden
 
 This scale is a self-report of exercise self-efficacy (Resnick & Jenkins, 2000). There are 9 items to consider, with the total score is calculated by summing the responses to each question. This scale has a range of total scores from 0-90. A higher score indicates higher self-efficacy for exercise. The internal consistency has been reported as 0.92. When considering validity, the mental and physical health scores on the SF-12 questionnaire predicted efficacy expectations as measured by the SEE Scale. Furthermore, SEE efficacy expectations predicted exercise participation.
 
-**How confident are you right now that you could exercise three times per week for 20 minutes if:**
+|             0 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10             |
+|--------------:|-----|-----|-----|-----|-----|-----|-----|-----|-----|:---------------|
+| Not Confident |     |     |     |     |     |     |     |     |     | Very Confident |
 
-|   | Not Confident |   |   |   |   |   |   |   |   |   | Very Confident |
-|------|-----:|------|------|------|------|------|------|------|------|------|:-----|
-| 1\. The weather was bothering you | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 2\. You were bored by the program or activity | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 3\. You felt pain when exercising | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 4\. You had to exercise alone | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 5\. You did not enjoy it | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 6\. You were too busy with other activities | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 7\. You felt tired | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 8\. You felt stressed | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 9\. You felt depressed | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+: {.striped tbl-colwidths="\[10,3,3,3,3,3,3,3,3,3,10\]"}
 
-: {.striped tbl-colwidths="\[53,10,3,3,3,3,3,3,3,3,3,10\]"}
+```{=html}
+<table>
+    <caption>Self-Efficacy for Exercise Scale</caption>
+    <colgroup>
+      <col style="width:10%">
+      <col style="width:80%">
+      <col style="width:10%">
+    </colgroup>
+    <thead>
+        <tr>
+          <th colspan="3">How confident are you right now that you could exercise three times per week for 20 minutes if:</th> 
+        </tr>
+        <tr>
+            <th>Item</th>
+            <th>Context</th>
+            <th>Score </th>
+        </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td>1</td>
+            <td>The weather was bothering you</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>You were bored by the program or activity</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>You felt pain when exercising</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>You had to exercise alone</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>You did not enjoy it</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>You were too busy with other activities</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>You felt tired</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>You felt stressed</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>You felt depressed</td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><b>SEE Total</b></td>
+            <td><div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**SEE Total Score:** \_\_\_\_\_\_\_\_
+\
 
 {{< pagebreak >}}
 
 ##### Exercise Benefits/Barriers Scale
 
-Below are statements that relate to ideas about exercise. Please indicate the degree to which you agree or disagree with the statements by circling SA for strongly agree, A for agree, D for disagree or SD for strongly disagree (Sechrist et al., 1987).
+Below are statements that relate to ideas about exercise. Please indicate the degree to which you agree or disagree with the statements by circling SA for strongly agree, A for agree, D for disagree or SDfor strongly disagree (Sechrist et al., 1987).
 
-|  |  |  |  |  |
-|---------------|--------------:|:-------------:|:-------------:|:--------------|
-| 1\. I enjoy exercise. | SA | A | D | SD |
-| 2\. Exercise decreases feelings of stress and tension for me. | SA | A | D | SD |
-| 3\. Exercise improves my mental health. | SA | A | D | SD |
-| 4\. Exercising takes too much of my time. | SA | A | D | SD |
-| 5\. I will prevent heart attacks by exercising. | SA | A | D | SD |
-| 6\. Exercise tires me. | SA | A | D | SD |
-| 7\. Exercise increases my muscle strength. | SA | A | D | SD |
-| 8\. Exercise gives me a sense of personal accomplishment. | SA | A | D | SD |
-| 9\. Places for me to exercise are too far away. | SA | A | D | SD |
-| 10\. Exercising makes me feel relaxed. | SA | A | D | SD |
-| 11\. Exercising lets me have contact with friends and persons I enjoy | SA | A | D | SD |
-| 12\. I am too embarrassed to exercise. | SA | A | D | SD |
-| 13\. Exercising will keep me from having high blood pressure. | SA | A | D | SD |
-| 14\. It costs too much money to exercise. | SA | A | D | SD |
-| 15\. Exercising increases my level of physical fitness. | SA | A | D | SD |
-| 16\. Exercise facilities do not have convenient schedules for me. | SA | A | D | SD |
-| 17\. My muscle tone is improved with exercise. | SA | A | D | SD |
-| 18\. Exercising improves functioning of my cardiovascular system. | SA | A | D | SD |
-| 19\. I am fatigued by exercise. | SA | A | D | SD |
-| 20\. I have improved feelings of wellbeing from exercise. | SA | A | D | SD |
-| 21\. My spouse (or significant other) does not encourage exercising. | SA | A | D | SD |
-| 22\. Exercise increases my stamina. | SA | A | D | SD |
-| 23\. Exercise improves my flexibility. | SA | A | D | SD |
-| 24\. Exercise takes too much time from family relationships. | SA | A | D | SD |
-| 25\. My disposition is improved by exercise. | SA | A | D | SD |
-| 26\. Exercising helps me sleep better at night. | SA | A | D | SD |
-| 27\. I will live longer if I exercise. | SA | A | D | SD |
-| 28\. I think people in exercise clothes look funny. | SA | A | D | SD |
-| 29\. Exercise helps me decrease fatigue. | SA | A | D | SD |
-| 30\. Exercising is a good way for me to meet new people. | SA | A | D | SD |
-| 31\. My physical endurance is improved by exercising. | SA | A | D | SD |
-| 32\. Exercising improves my self-concept. | SA | A | D | SD |
-| 33\. My family members do not encourage me to exercise. | SA | A | D | SD |
-| 34\. Exercising increases my mental alertness. | SA | A | D | SD |
-| 35\. Exercise allows me to carry out normal activities without becoming tired. | SA | A | D | SD |
-| 36\. Exercise improves the quality of my work. | SA | A | D | SD |
-| 37\. Exercise takes too much time from my family responsibilities. | SA | A | D | SD |
-| 38\. Exercise is good entertainment for me. | SA | A | D | SD |
-| 39\. Exercising increases my acceptance by others. | SA | A | D | SD |
-| 40\. Exercise is hard work for me. | SA | A | D | SD |
-| 41\. Exercise improves overall body functioning for me. | SA | A | D | SD |
-| 42\. There are too few places for me to exercise. | SA | A | D | SD |
-| 43\. Exercise improves the way my body looks. | SA | A | D | SD |
+```{=html}
+<table>
+    <caption>Exercise Benefits & Barriers Scale</caption>
+    <colgroup>
+      <col style="width:70%">
+      <col style="width:7.5%">
+      <col style="width:7.5%">
+      <col style="width:7.5%">
+      <col style="width:7.5%">
+    </colgroup>
+    <thead>
+      <tr>
+        <th>Item</th>
+        <th>SA</th>
+        <th>A</th>
+        <th>D</th>
+        <th>SD</th>
+      </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td>1. I enjoy exercise</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>2. Exercise decreases feelings of stress and tension for me</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>3. Exercise improves my mental health</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>4. Exercising takes too much of my time</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>5. I will prevent heart attacks by exercising</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>6. Exercise tires me</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>7. Exercise increases my muscle strength</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>8. Exercise gives me a sense of personal accomplishment</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>9. Places for me to exercise are too far away</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>10. Exercising makes me feel relaxed</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>11. Exercising lets me have contact with friends and persons I enjoy</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>12. I am too embarrassed to exercise</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>13. Exercising will keep me from having high blood pressure</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>14. It costs too much money to exercise</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>15. Exercising increases my level of physical fitness</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>16. Exercise facilities do not have convenient schedules for me</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>17. My muscle tone is improved with exercise</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>18. Exercising improves functioning of my cardiovascular system</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>19. I am fatigued by exercise</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>20. I have improved feelings of wellbeing from exercise</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>21. My spouse (or significant other) does not encourage exercising</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>22. Exercise increases my stamina</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>23. Exercise improves my flexibility</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>24. Exercise takes too much time from family relationships</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>25. My disposition is improved by exercise</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>26. Exercising helps me sleep better at night</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>27. I will live longer if I exercise</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>28. I think people in exercise clothes look funny</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>29. Exercise helps me decrease fatigue</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>30. Exercising is a good way for me to meet new people</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>31. My physical endurance is improved by exercising</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>32. Exercising improves my self-concept</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>33. My family members do not encourage me to exercise</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>34. Exercising increases my mental alertness</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>35. Exercise allows me to carry out normal activities without becoming tired</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>36. Exercise improves the quality of my work</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>37. Exercise takes too much time from my family responsibilities</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>38. Exercise is good entertainment for me</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>39. Exercising increases my acceptance by others</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>40. Exercise is hard work for me</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>41. Exercise improves overall body functioning for me</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>42. There are too few places for me to exercise</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+        <tr>
+            <td>43. Exercise improves the way my body looks</td>
+            <td><input type="checkbox" value="SA"></td>
+            <td><input type="checkbox" value="A"></td>
+            <td><input type="checkbox" value="D"></td>
+            <td><input type="checkbox" value="SD"></td>
+        </tr>
+    </tbody>
+</table>
+```
 
-: {.striped tbl-colwidths="\[80,5,5,5\]"}
+\
 
 {{< pagebreak >}}
 
 ##### Simple Benefits/Barriers Assessment
 
-**What do you see as the benefits of exercise?**
+```{=html}
+<table>
+  <colgroup>
+      <col style="width:5%">
+      <col style="width:95%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td colspan="2"><b>What do you see as the benefits of exercise?</b></td>
+        </tr>
+        <tr>
+            <td><b>1.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>2.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>3.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-1.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-2.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-3.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<table>
+  <colgroup>
+      <col style="width:5%">
+      <col style="width:95%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <th colspan="2"><b>What do you see as being barriers to exercise?</b></th>
+        </tr>
+        <tr>
+            <td><b>1.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>2.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>3.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**What do you see as being barriers to exercise?**
-
-1.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-2.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-3.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\
 
 ##### Lab Question 3
 
-**From your personal perspective, what are the five greatest barriers to exercise participation?**
+```{=html}
+<table>
+  <colgroup>
+      <col style="width:5%">
+      <col style="width:95%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <th colspan="2"><b>From your perspective, what are the five greatest barriers to exercise participation?</b></th>
+        </tr>
+        <tr>
+            <td><b>1.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>2.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>3.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>4.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>5.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-1.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-2.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-3.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-4.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-5.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\
 
 ### Exercise Adherence Assessments
 
@@ -259,14 +933,46 @@ Additionally, the term 'adherence' better encapsulates a more holistic buy-in fr
 
 ##### Lab Question 4
 
-**List four possible methods to improve exercise adherence for a group of three friends - asthmatic, young adult females - who started an exercise program in a group as a new year’s resolution. Their current adherence rate is 50-60%.**
-
-**They commenced the program in an attempt to lose weight and improve their breathing function so they did not feel so out of breath as often throughout the day. They meet at the local park on 4 mornings per week and perform a variety of ‘bootcamp’ style exercises under the watchful eye of a personal trainer.**
-
-1.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-2.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-3.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-4.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+```{=html}
+<table>
+  <colgroup>
+      <col style="width:5%">
+      <col style="width:95%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td colspan="2"><b>List four possible methods to improve exercise adherence for a group of three friends - asthmatic, young adult females - who started an exercise program in a group as a new year’s resolution. Their current adherence rate is 50-60%.<br><br>
+          They commenced the program in an attempt to lose weight and improve their breathing function so they did not feel so out of breath as often throughout the day. They meet at the local park on 4 mornings per week and perform a variety of ‘bootcamp’ style exercises under the watchful eye of a personal trainer.</b></th>
+        </tr>
+        <tr>
+            <td><b>1.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>2.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>3.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>4.</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
 {{< pagebreak >}}
 
@@ -393,78 +1099,182 @@ To calculate the percentage difference you need to use the following formula:
 %diff = *(device measurement - actual measurement) / actual measurement × 100*
 :::
 
-| Percentage difference | Slow Walk | Fast Walk | Running |
-|------------------|------------------|------------------|------------------|
-| 1 Cheap Pedometer-reported steps vs Actual steps | \_\_ | \_\_ | \_\_ |
-| 2 Phone Pedometer-reported steps vs Actual steps | \_\_ | \_\_ | \_\_ |
-| 3 Cheap Pedometer distance vs Actual distance | \_\_ | \_\_ | \_\_ |
-| 4 Phone Pedometer distance vs Actual distance | \_\_ | \_\_ | \_\_ |
-| 5 GPS distance vs Actual distance | \_\_ | \_\_ | \_\_ |
-| Cheap Pedometer vs Phone Pedometer steps | \_\_ | \_\_ | \_\_ |
-
-: {.striped tbl-colwidths="\[70,10,10,10\]"}
+```{=html}
+<table>
+    <caption>Results for Pedometer Accuracy Tests</caption>
+    <colgroup>
+      <col style="width:70%">
+      <col style="width:10%">
+      <col style="width:10%">
+      <col style="width:10%">
+    </colgroup>
+    <thead>
+        <tr>
+            <th>Percentage difference</th>
+            <th>Slow Walk</th>
+            <th>Fast Walk</th>
+            <th>Running</th>
+        </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td>1. Cheap Pedometer-reported steps vs Actual steps</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>2. Phone Pedometer-reported steps vs Actual steps</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>3. Cheap Pedometer distance vs Actual distance</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>4. Phone Pedometer distance vs Actual distance</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>5. GPS distance vs Actual distance</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>6. Cheap Pedometer vs Phone Pedometer steps</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+    </tbody>
+</table>
+```
 
 {{< pagebreak >}}
 
 ### Discussion
 
-1.  Does the data support the use of pedometers in approximating distance covered on a daily basis?\
-    \
-    \
-    \
-    \
-    \
-    \
-    \
-2.  Explain why pedometers are considered to be useful for general health.\
-    \
-    \
-    \
-    \
-    \
-    \
-    \
-3.  Is the level of error produced by the GPS monitor acceptable? What recommendations would you make to improve the quality of the data? Would you recommend the use of a GPS monitor in the determination of distance covered on a daily basis? Why or why not?\
-    \
-    \
-    \
-    \
-    \
-    \
-    \
+1.  Does the data support the use of pedometers in approximating distance covered on a daily basis?
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+<!-- -->
+
+2.  Explain why pedometers are considered to be useful for general health.
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+<!-- -->
+
+3.  Is the level of error produced by the GPS monitor acceptable? What recommendations would you make to improve the quality of the data? Would you recommend the use of a GPS monitor in the determination of distance covered on a daily basis? Why or why not?
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+<!-- -->
+
 4.  Discuss the role of physical activity in the:
-    a.  **Prevention** of cardiopulmonary and metabolic conditions?\
-        \
-        \
-        \
-        \
-        \
-        \
-        \
-    b.  Discuss the role of physical activity in the **treatment** of cardiopulmonary and metabolic conditions.\
-        \
-        \
-        \
-        \
-        \
-        \
-        \
-5.  Prescribe a training program for an obese individual with type 2 diabetes who is looking to lose \~20kg over a 10 month period? Explain distances, intensity, modality, frequency etc. Would you encourage the use of a pedometer or GPS unit? If so, in what way would it be included?\
-    \
-    \
-    \
-    \
-    \
-    \
-    \
-6.  Now consider what programming variables would be different for prescribing exercise for individuals with arthritis or osteoporosis. Would you encourage the use of a pedometer or GPS unit? If so, in what way would it be included?\
-    \
-    \
-    \
-    \
-    \
-    \
-    \
+
+    a.  **Prevention** of cardiopulmonary and metabolic conditions?
+    b.  Discuss the role of physical activity in the **treatment** of cardiopulmonary and metabolic conditions.
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+<!-- -->
+
+5.  Prescribe a training program for an obese individual with type 2 diabetes who is looking to lose \~20kg over a 10 month period? Explain distances, intensity, modality, frequency etc. Would you encourage the use of a pedometer or GPS unit? If so, in what way would it be included?
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+<!-- -->
+
+6.  Now consider what programming variables would be different for prescribing exercise for individuals with arthritis or osteoporosis. Would you encourage the use of a pedometer or GPS unit? If so, in what way would it be included?
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
 
 {{< pagebreak >}}
 
@@ -480,4 +1290,4 @@ To calculate the percentage difference you need to use the following formula:
 
 -   Wieters KM, Kim JH & Lee C. (2012). Assessment of wearable global positioning system units for physical activity research. *Journal of Physical Activity and Health*. 9(7):913-23.
 
--   Yang, C-C & Hsu, Y-L (2010). A review of accelerometry-based wearable motion detectors for physical activity monitoring. *Sensors*, *10*(8): 7772-7788. ::::
+-   Yang, C-C & Hsu, Y-L (2010). A review of accelerometry-based wearable motion detectors for physical activity monitoring. *Sensors*, *10*(8): 7772-7788.

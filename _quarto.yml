@@ -3,12 +3,15 @@ project:
   output-dir: 'docs'
   # output-dir: '_book'
 
-# execute:
-#   freeze: auto
+execute:
+  echo: false
+  warning: false
+  cache: true
+  freeze: auto
 
 book:
   title: "92553 Complex Exercise Management"
-  subtitle: "Laboratory Manual 2025"
+  subtitle: "Laboratory Manual 2026"
   # author:
     # - name: "Dr Antony Stadnyk"
       # email: 'antony.stadnyk@uts.edu.au'
@@ -17,11 +20,11 @@ book:
       #     - "School of Sport, Exercise & Rehabilitation"
       #     - "Faculty of Health"
       #     - "University of Technology Sydney"
-  reader-mode: true
+  reader-mode: false
   page-footer:
     left: "92553 Complex Exercise Management - Lab Manual"
     right: "This book was built with <a href='https://quarto.org/'>Quarto</a>"
-  cover-image: images/coverpage.png
+  # cover-image: images/coverpage.png
   favicon: images/coverpage.png
   cookie-consent: false
   page-navigation: true
@@ -58,7 +61,6 @@ format:
     number-sections: false
     title-block-banner: true
     df-print: kable
-    # html-table-processing: none
   pdf:
     documentclass: scrbook
     pdf-engine: xelatex
@@ -75,7 +77,6 @@ format:
     colorlinks: true
     # tbl-colwidths: auto
     df-print: kable
-    # html-table-processing: none
     # template-partials:
     #   - before-body.tex
   docx:

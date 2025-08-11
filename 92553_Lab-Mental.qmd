@@ -11,6 +11,12 @@ Read the following paper, available in your Canvas Modules or by following the l
 
 > Vella, S. A., Aidman, E., Teychenne, M., Smith, J. J., Swann, C., Rosenbaum, S., ... & Lubans, D. R. (2023). Optimising the effects of physical activity on mental health and wellbeing: A joint consensus statement from Sports Medicine Australia and the Australian Psychological Society. *Journal of Science and Medicine in Sport*, *26*(2), 132-139. <https://www-sciencedirect-com.ezproxy.lib.uts.edu.au/science/article/pii/S1440244023000014>
 
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+
 {{< pagebreak >}}
 
 ## Lab Session
@@ -39,22 +45,33 @@ Physical activity interventions can be impactful, safe, and cost-effective. Howe
 
 ##### Lab Question 1
 
-You may have noticed in the introduction and pre-lab readings that *mental health* and *mental illness* are intentionally differentiated. What do you think each of these terms mean and what do they encompass?
+```{=html}
+<table>
+  <colgroup>
+    <col style="width:25%">
+    <col style="width:75%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td colspan="2"><b>You may have noticed in the introduction and pre-lab readings that mental health and mental illness are intentionally differentiated. What do you think each of these terms mean and what do they encompass?</b></td>
+      </tr>    
+        <tr>
+            <td><b>Mental Health is...</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Mental Illness is...</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+    </tbody>
+</table>
+```
 
-Mental Health is...
-
-\
-\
-\
-\
-and, Mental Illness is...
-
-\
-\
-\
 \
 
-![Image: Life in Mind](images/Mental_lifeinmind1.png){width="75%"}
+![Image: Life in Mind](images/Mental_lifeinmind1.png){width="80%"}
 
 {{< pagebreak >}}
 
@@ -78,7 +95,9 @@ These contextual factors fit nicely within an evidence-based practice model, whe
 In this activity, you will work in your lab groups to conduct a brief evidence review of the effects of different types of exercise for a specific Mental Health Disorder. Your lab tutor will assign a case to your group and, at the end of the activity, your group will present a summary of your findings.
 
 -   Use Google Scholar, PubMed, or any other research database to identify relevant literature to help you collaboratively build an evidence table.
+
 -   Your evidence table should include findings relevant to the contextual factors discussed in the Vella et al., (2023) paper
+
 -   In summarising findings for each type of exercise, consider the strengths, weaknesses, and potential barriers for them
 
 {{< pagebreak >}}
@@ -90,8 +109,6 @@ In this activity, you will work in your lab groups to design an exercise program
 You will use knowledge developed in *Strength & Conditioning*, *Exercise Prescription*, and *Assessment, Prescription & Delivery* to prescribe a holistic physical activity program. You will also need to make reference to the contextual factors discussed in the Vella et al., (2023) paper in designing your program.
 
 -   Use the SOAP notes structure to guide your assessment and planning
-
-<!-- -->
 
 -   Develop specific questions that you would need to ask the client or other health professionals to gain the information you need to design an appropriate and effective program, e.g., collateral information, such as trauma responses and 'catalysis for exacerbation'
 
@@ -105,10 +122,25 @@ Throughout the activity, the lab tutors will be roaming around to discuss your p
 
 The terms "trigger warning" or "triggers" are often used to alert a person/group to something about to be presented or mentioned that may cause distress. Do you think the use of these terms is appropriate or even necessary? Why could they be beneficial or harmful?
 
-\
-\
-\
-\
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
 
 #### Further Learning Opportunities
 

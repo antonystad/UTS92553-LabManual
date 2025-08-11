@@ -15,6 +15,12 @@ Read the following articles, available in your Canvas Modules or by following th
 
 Complete the Pre-Lab Quiz on ageing in your Canvas Modules.
 
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+
 {{< pagebreak >}}
 
 ## Lab Session
@@ -61,15 +67,13 @@ Along with cardiorespiratory and flexibility training, resistance training has w
 
 In this activity, you will use and extend your knowledge and practical skills developed in *Strength & Conditioning* and *Exercise Prescription* to prescribe and deliver gym-based exercises that consider the needs and abilities of older patients. Your tutor will provide various examples of gym-based exercises for older patients, especially those with chronic disease. It's your job in groups to make additional considerations that call upon your resistance training and coaching knowledge to develop appropriate training programming and exercises. This activity will take place in the Exercise Physiology Clinic (Level 2) and Resistance Training (Level 4) Gyms.
 
-1.  In your lab groups of 5-7 people, you will select 5 key lifts that you are familiar with, including one:
+1.  In your lab groups of 5-7 people, you will select 3-4 key lifts that you are familiar with, including one:
 
     -   Upper body free weight exercise,
 
-    -   Upper body machine weight exercise,
-
     -   Lower body free weight exercise, and
 
-    -   Lower body machine weight exercise
+    -   A machine weight exercise
 
 2.  For each exercise chosen, have one person perform 10 reps as a young, healthy individual, while the group observes form and considers the key movement concepts
 
@@ -79,12 +83,91 @@ In this activity, you will use and extend your knowledge and practical skills de
 
 5.  Once the set is complete, reflect on the modified exercise, including how the 'patients' felt performing the movement, and any further adjustments you would make
 
-**Notes**
+```{=html}
+<table>
+  <colgroup>
+    <col style="width:25%">
+    <col style="width:75%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr style="background-color: #CAEEFB">
+            <td><b>Exercise 1</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Modifications</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Notes & Reflections</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr style="background-color: #CAEEFB">
+            <td><b>Exercise 2</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Modifications</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Notes & Reflections</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr style="background-color: #CAEEFB">
+            <td><b>Exercise 3</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Modifications</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Notes & Reflections</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr style="background-color: #CAEEFB">
+            <td><b>Exercise 4</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Modifications</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Notes & Reflections</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-\
-\
-\
-\
 \
 
 {{< pagebreak >}}
@@ -113,7 +196,22 @@ Once completed, work together in your groups to design an outdoor exercise circu
 
 -   Discuss additional equipment that may be useful for this context, or alternative types of exercise that could be considered
 
-**Notes**
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr><td><b>Notes</b></td></tr>
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
+\
 
 {{< pagebreak >}}
 
@@ -121,11 +219,25 @@ Once completed, work together in your groups to design an outdoor exercise circu
 
 Throughout the lab we will be viewing and discussing content related to exercise and healthy ageing. You can write any notes related to the content, discussions, and case study activities below.
 
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
 \
-\
-\
-\
-\
-\
-\
-\
+
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+

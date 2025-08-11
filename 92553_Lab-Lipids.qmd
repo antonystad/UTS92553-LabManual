@@ -9,6 +9,12 @@ Read Chapter 9 of the textbook which relates to the topic of obesity.
 
 Revise your notes from 92533 Exercise Physiology relating to blood sampling techniques.
 
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+
 {{< pagebreak >}}
 
 ## Lab Session
@@ -31,18 +37,49 @@ The objectives of this week's lab are to:
 
 ##### Lab Question 1
 
-**What are some foods that are high in LDL-C?\
-\
-**
+```{=html}
+<table>
+  <colgroup>
+      <col style="width:100%">
+  </colgroup>
+    <thead>
+      <tr>
+        <th colspan="2">What are some foods that are high in LDL-C?</th>
+      </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
 In contrast to the negative effects of LDL-C, elevated concentration of high-density lipoproteins (HDL-C) is positively associated with cardiovascular health. In this way, it is ideal to have HDL-C scores as high as possible, and LDL-C scores as low as possible. There is a large body of literature stating the beneficial effects of HDL-C, as it acts as a scavenger molecule in the arterial network, assisting in the removal of atherosclerotic deposits.
 
 ##### Lab Question 2
 
-**List some foods that are high in HDL-C and are therefore beneficial to include in a healthy diet.\
-\
-\
-**
+```{=html}
+<table>
+  <colgroup>
+      <col style="width:100%">
+  </colgroup>
+    <thead>
+      <tr>
+        <th colspan="2">List some foods that are high in HDL-C and are therefore beneficial to include in a healthy diet</th>
+      </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
 The concentration of total cholesterol is directly proportional to mortality rate, and lifestyle and medical interventions have shown that these elevated values are reversible. With this in mind, it is important for patients with hypercholesterolemia and high LDL-C to modify their associated risk factors, in particular, diet and exercise.  
 
@@ -109,20 +146,26 @@ You are required to assess the following:
 
 8.  If further samples are required, or if the subject has to immediately return to exercise, cover the wound with surgical tape.  Otherwise, apply light pressure with a cotton pad or tissue until the bleeding stops, then cover with tape or band-aid.
 
-9.  **Dispose of all contaminated material into the appropriate container**.
+9.  **Dispose of all contaminated material into the appropriate container**. 
 
-::: {.callout-important appearance="simple"}
-Once an item has been used it is considered contaminated whether blood is visible or not, and hence must be disposed of, or sterilised if intended for re-use. Equipment such as lancets and tissues must be used only once and then disposed of even when making repeated measurements on the same subject.
-:::
+    ::: {.callout-important appearance="simple"}
+    Once an item has been used it is considered contaminated whether blood is visible or not, and hence must be disposed of, or sterilised if intended for re-use. Equipment such as lancets and tissues must be used only once and then disposed of even when making repeated measurements on the same subject.
+    :::
 
 ##### CardioChek PA Technique
 
 1.  Switch the unit on with the arrow button on the right hand side
+
 2.  Ensure the **strip code** you are using matches the code on the chip.
+
 3.  Slide the strip into the unit, ensuring that it is oriented in the correct direction.
+
 4.  Await the instructions on the screen and then place the blood sample onto the strip. Make sure you **cover the area fully**, ensuring an even spread of blood. You need to be quick when placing blood onto the test strip as analysis commences automatically when the first drop of blood touches the strip.
+
 5.  The analyser will take a moment to produce the results. When analysing Cholesterol/Triglycerides, press the arrow button to scroll through the different results.
+
 6.  Record all results. Note: For some values, you may receive a score preceded by “\<” or “\>”, indicating that the score was less than or greater than the lower or upper limit for the testing device. Please make sure you pay attention to this when writing your scores down.
+
 7.  Once all results are recorded, remove the strip, clean the area as appropriate, and dispose of any materials used.
 
 Some of the values are directly measured, whereas the following calculation is used to indirectly assess LDL cholesterol:
@@ -139,38 +182,90 @@ Please be careful with the analysers and strips – they are expensive pieces of
 
 #### Patient Details
 
-e.g., name, age, health history\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+```{=html}
+<table>
+  <colgroup>
+      <col style="width:20%">
+      <col style="width:80%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td><b>Name</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Age</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Health History</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
 #### Test Data
 
-| Variable          | Result |
-|-------------------|--------|
-| Total Cholesterol | \_\_   |
-| Triglycerides     | \_\_   |
-| HDL Cholesterol   | \_\_   |
-| LDL Cholesterol   | \_\_   |
-| TC:HDL Ratio      | \_\_   |
+```{=html}
+<table>
+    <caption>
+        <p>Results for Lipid Profile</p>
+    </caption>
+    <thead>
+        <tr>
+            <th>Variable</th>
+            <th>Result</th>
+        </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td>Total Cholesterol</td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>Triglycerides</td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>HDL Cholesterol</td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>LDL Cholesterol</td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>TC:HDL Ratio</td>
+            <td><div contenteditable></div></td>
+        </tr>
+    </tbody>
+</table>
+```
 
 #### Comments
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
 {{< pagebreak >}}
 
@@ -178,53 +273,134 @@ e.g., name, age, health history\
 
 In your pairs, generate pre-post test data for a hypothetical patient who presents with hyperlipidaemia and hypercholesterolaemia prior to completing an 8-week exercise program. Estimate the effect of the exercise intervention on the patient's lipid profile.
 
-| Variable          | Pre-Intervention | Post-Intervention |
-|-------------------|------------------|-------------------|
-| Total Cholesterol | \_\_             | \_\_              |
-| Triglycerides     | \_\_             | \_\_              |
-| HDL Cholesterol   | \_\_             | \_\_              |
-| LDL Cholesterol   | \_\_             | \_\_              |
-| TC:HDL Ratio      | \_\_             | \_\_              |
+```{=html}
+<table>
+    <caption>
+        <p>Results for Behaviour Change Intervention</p>
+    </caption>
+    <thead>
+        <tr>
+            <th>Variable</th>
+            <th>Pre-Intervention</th>
+            <th>Post-Intervention</th>
+        </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td>Total Cholesterol</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>Triglycerides</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>HDL Cholesterol</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>LDL Cholesterol</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>TC:HDL Ratio</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+    </tbody>
+</table>
+```
 
-Write an exercise management plan for this patient, taking into account diet, lifestyle, exercise, and medications. Use internet searches or GenAI to identify some common medications. Provide some examples of exercise sessions you would include to provide a sufficient stimulus to improve their cardiovascular and metabolic fitness, and describe why these would be effective for improving the patient's lipid profile.\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Write an exercise management plan for this patient, taking into account diet, lifestyle, exercise, and medications. Use internet searches or GenAI to identify some common medications. Provide some examples of exercise sessions you would include to provide a sufficient stimulus to improve their cardiovascular and metabolic fitness, and describe why these would be effective for improving the patient's lipid profile.
+
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
 {{< pagebreak >}}
 
 ### Discussion
 
-1.  How do the results of the class member that you tested compare to the normative scores? Within the range? Outside the range? Can you identify any reasons for these results?\
-    \
-    \
-    \
-    \
-    \
-2.  What are some of the important dietary considerations when dealing with hypercholesterolemia and hyperlipidemia\
-    \
-    \
-    \
-    \
-    \
-3.  Discuss the exercise programming issues when considering exercise as a form of treatment for patients with hyperlipidemia and hypercholesterolemia. Include mention of the safety concerns.\
-    \
-    \
-    \
-    \
-    \
-4.  Why is LDL cholesterol such an important physiological parameter to measure?\
-    \
-    \
-    \
-    \
-    \
+1.  How do the results of the class member that you tested compare to the normative scores? Within the range? Outside the range? Can you identify any reasons for these results?
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+2.  What are some of the important dietary considerations when dealing with hypercholesterolaemia and hyperlipidaemia
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+3.  Discuss the exercise programming issues when considering exercise as a form of treatment for patients with hyperlipidaemia and hypercholesterolaemia. Include mention of the safety concerns.
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+4.  Why is LDL cholesterol such an important physiological parameter to measure?
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::

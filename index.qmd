@@ -1,24 +1,34 @@
-# Overview {.unnumbered}
+## Overview
 
-This laboratory manual has been compiled to be an integral component of course content for 92553 Complex Exercise Management. It is designed to be an interactive learning resource, so please bring it to every class either on a device or printed as a hard copy. We will work through various issues associated with a range of chronic diseases, with a view to exploring some of the practical elements of these topics.
+![](images/coverpage.png){fig-align="center" width="80%"}
+
+{{< pagebreak >}}
+
+This laboratory manual has been compiled to be an integral component of subject content for 92553 Complex Exercise Management. It is designed to be an interactive learning resource, so please bring it to every class either on a device or printed as a hard copy. We will work through various issues associated with a range of chronic diseases, with a view to exploring some of the practical elements of these topics related to safe and effective exercise prescription for people living with these complex conditions.
 
 The web version makes use of [hypothes.is annotations](https://web.hypothes.is/help/annotation-basics/), a tool that will allow you to make notes directly on pages both individually and collaboratively. [Visit the Quick Start Guide here](https://web.hypothes.is/start/) to create a free account and see how it works. You can start making notes by selecting text on the page and the options to annotate or highlight will pop up, or by clicking on the notes sidebar (right side of page). You can also use hypothes.is on Canvas or other online content by using the browser extension or bookmarklet. Private groups can be created to just focus on your notes, create a group to share among friends, or [join the ComplExMgmt 2025 group](https://hypothes.is/groups/ymxizJ6K/complexmgmt-2025) to work collaboratively with everyone. You can export these notes later for revision, or simply visit the page any time to see all comments.
 
-There are Pre-Lab Activities published each week on Canvas, which are designed to be undertaken prior to attending class. These are also available at the start of each respective chapter of the lab manual. The activities are designed to test your understanding of the content, and encourage critical thinking about the content that you are about to engage with in class.
+There are Pre-Lab Activities published each week on Canvas, which are designed to be undertaken prior to attending class. These are also highlighted at the start of each respective chapter of the lab manual. The activities are designed to test your understanding of the content, and encourage critical thinking about the content that you are about to engage with in class.
 
 The content in this subject will provide you with a foundation of knowledge for applying clinical exercise physiology concepts and methods across a variety of populations. This will recall and develop skills acquired in prior subjects, including Strength & Conditioning, Exercise Physiology, and Exercise Prescription. The activities completed in each lab class will contribute further knowledge relevant to practice in clinical exercise physiology.
 
-This laboratory manual itself does not form part of your assessments for Complex Exercise Physiology. However, it will contribute to the development of understanding of the key concepts and considerations in each topic by guiding your engagement with the activities and discussions conducted in class. The manual will provide an excellent revision resource for your Mid-semester and Final Exams.
-
-Please ensure that you arrive to each class prepared to participate. You must wear enclosed footwear to enter laboratory spaces. Food and drink is not permitted in laboratory spaces, except water bottles or where provided as part of lab activities.
+Your lab manual completion is not assessed. However, it will contribute to the development of understanding of the key concepts and considerations in each topic by guiding your engagement with the activities and discussions conducted in class. The manual will provide an excellent revision resource for your Mid-semester and Final Exams, and content will be relevant in developing your Assignment Case Study.
 
 I encourage you to be actively involved in lab classes, whether it be through sharing your opinion in discussion, operating testing equipment, or volunteering to perform exercise. As I'm sure you've experienced in previous subjects, classes become much more rewarding when we have engaging discussions and activities with people readily contributing.
 
-I look forward to working with you all, and hope you enjoy Complex Exercise Management.
+I look forward to working with you all, and hope you enjoy Complex Exercise Management. I value your feedback on the subject, so please reach out either in person, via email, or in the Student Feedback Surveys to share your comments.
 
 Antony
 
 {{< pagebreak >}}
+
+::: {.callout-important appearance="simple"}
+Please ensure that you arrive to each class prepared to participate.
+
+You must wear enclosed footwear to enter laboratory spaces.
+
+Food and drink is not permitted in laboratory spaces, except water bottles or where provided as part of lab activities.
+:::
 
 ## Lab Schedule {#sec-lab-schedule}
 

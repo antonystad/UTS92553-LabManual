@@ -1,0 +1,230 @@
+---
+title: "Week 5 - Lipids & Blood Chemistry"
+subtitle: "Assessments of Blood Cholesterol & Lipid Profiles"
+---
+
+## Pre-Lab Activity
+
+Read Chapter 9 of the textbook which relates to the topic of obesity.
+
+Revise your notes from 92533 Exercise Physiology relating to blood sampling techniques.
+
+{{< pagebreak >}}
+
+## Lab Session
+
+### Introduction
+
+Dyslipidemia refers to a disruption to the normal blood lipid profile. Most cases of dyslipidemia are hyperlipidemia (high concentration of blood lipids), which refers to a sustained period of high serum lipid concentration. Such a condition can lead to many serious health complications.
+
+Dyslipidemia is often the result of several lifestyle factors that relate to hypokinesia, and can manifest in a chronic condition (in particular, cardiovascular disease) which can dramatically affect risk of mortality and quality of life. Of each of the modifiable risk factors for cardiovascular disease (including smoking, cholesterol, physical inactivity, hypertension, and diabetes) high levels of serum cholesterol appears to be the most critical factor.
+
+Elevated concentration of low density lipoproteins (LDL-C) is directly related to an increased risk of coronary heart disease and other cardiovascular diseases. An elevated LDL-C measure may lead to an increase in the development of atherosclerotic plaques in the arteries, thus affecting blood flow dynamics and central and peripheral blood pressures.
+
+The objectives of this week's lab are to:
+
+-   Gain experience assessing cholesterol and triglycerides in the blood
+
+-   Gain experience using normative scores for blood lipid profiles
+
+-   Hypothesise about methods to reduce cases of hyperlipidemia or hypercholesterolemia
+
+##### Lab Question 1
+
+**What are some foods that are high in LDL-C?\
+\
+**
+
+In contrast to the negative effects of LDL-C, elevated concentration of high-density lipoproteins (HDL-C) is positively associated with cardiovascular health. In this way, it is ideal to have HDL-C scores as high as possible, and LDL-C scores as low as possible. There is a large body of literature stating the beneficial effects of HDL-C, as it acts as a scavenger molecule in the arterial network, assisting in the removal of atherosclerotic deposits.
+
+##### Lab Question 2
+
+**List some foods that are high in HDL-C and are therefore beneficial to include in a healthy diet.\
+\
+\
+**
+
+The concentration of total cholesterol is directly proportional to mortality rate, and lifestyle and medical interventions have shown that these elevated values are reversible. With this in mind, it is important for patients with hypercholesterolemia and high LDL-C to modify their associated risk factors, in particular, diet and exercise.  
+
+The measure of Triglycerides provides information pertaining to the level of circulating fatty acids. Elevated triglyceride levels are directly associated with atherosclerosis, therefore, attempts should be made to minimise the consumption of foods that contain high amounts of fat. It is common to witness elevated triglyceride concentration in conjunction with elevated LDL-C concentration. Triglyceride concentration is not as important as the LDL:HDL ratio, however, it remains an extremely important measure as far as cardiovascular health is concerned. The TC:HDL ratio is also an important marker of the type of cholesterol. Discuss whether a high or low TC:HDL ratio is preferred for optimal health…
+
+Blood chemistry is often assessed in a fasted state. This removes the acute nature of changes in certain hormones (especially insulin) which can affect blood chemistry and provides a more accurate representation of current health status. Each of the variables that you will be assessing today may be affected by pre-test diet. Triglyceride levels often remain relatively high for a sustained period after eating (6-8 hours) as food is digested.
+
+| Variable | Ideal | Borderline High | High Risk |
+|------------------|------------------|------------------|------------------|
+| Total Cholesterol | ≤ 5.18 mmol/L (200 mg/dL) | 5.19-6.20 mmol/L (200-239 mg/dL) | ≥ 6.21 mmol/L (240 mg/dL) |
+| HDL Cholesterol (Note: Higher values are better) | ≥ 1.55 mmol/L (60 mg/dL) |  | ≤ 1.04 mmol/L (40 mg/dL) |
+| LDL Cholesterol | ≤ 2.59 mmol/L (100 mg/dL) | 2.60-4.20 mmol/L (100-160 mg/dL) | ≥ 4.21 mmol/L (160 mg/dL) |
+| Triglycerides | ≤ 1.70 mmol/L (150 mg/dL) | 1.71-2.25 mmol/L (150-200 mg/dL) | ≥ 2.26 mmol/L (200 mg/dL) |
+
+: Normative Values for Blood Cholesterol and Triglycerides
+
+{{< pagebreak >}}
+
+### Methods
+
+#### Equipment
+
+-   Cardiochek PA analyser
+-   PTS Lipid panel test strips
+-   Blood sampling equipment (gloves, alcohol wipes, lancets, gauze, tissues)
+
+#### Procedure
+
+We will be using CardioChek PA analysers for the assessment of lipid profiles. You will divide into groups of 8-10 students, and within those groups, you will be placed in pairs and work as a team. One person will perform the testing, and one will play the role of the client.
+
+You are required to treat the client with respect, as if they are a paying customer of a clinic, and obtain a brief background from them, including family history of hypercholesterolemia, heart disease/other conditions, recent exercise history, and any other pertinent information that may be relevant to this type of testing.
+
+The subject will (ideally) be in a fasting state, having not consumed any food within the preceding 12 hours. Recent eating can dramatically alter blood cholesterol readings, rendering them a poor reflection of fasting values. Within your groups, preferably test only the individuals that have fasted to ensure good quality data.
+
+Following this testing, you will formulate a hypothetical patient and work through some issues.
+
+You are required to assess the following:
+
+1.  Total cholesterol
+2.  HDL cholesterol
+3.  LDL cholesterol
+4.  Triglycerides
+5.  TC:HDL ratio
+
+##### Blood Sampling Technique
+
+1.  Select the puncture site (practice on either the fingertip or ear)
+
+2.  Warm/hyperaemise the area with massage and/or Finalgon cream
+
+3.  **Clean the site** using an alcohol pad in a circular motion and allow to dry. Wipe site with a cotton pad.
+
+4.  Hold the site **firmly** and make the puncture in one continuous, deliberate, perpendicular motion. Punctures in the fingertip should be into the pulp and across rather than parallel to the fingerprint. Punctures in the earlobe should be in the flesh, avoiding any cartilage. 
+
+    ::: {.callout-important appearance="simple"}
+    This is the most important part of drawing a good blood sample. You need to make sure the puncture is performed with sufficient pressure or you may not be able to draw enough blood.
+    :::
+
+5.  **Wipe away the first drop of blood** using a clean cotton pad or tissue, as it may be contaminated with other body fluids.
+
+6.  Apply moderate pressure to ensure adequate blood flow, but **do not squeeze vigorously**. This avoids collection of interstitial fluid in addition to blood.
+
+7.  Collect the blood into the appropriate container, i.e., the capillary tube. **Make sure you allow the blood to form a droplet first**.
+
+8.  If further samples are required, or if the subject has to immediately return to exercise, cover the wound with surgical tape.  Otherwise, apply light pressure with a cotton pad or tissue until the bleeding stops, then cover with tape or band-aid.
+
+9.  **Dispose of all contaminated material into the appropriate container**.
+
+::: {.callout-important appearance="simple"}
+Once an item has been used it is considered contaminated whether blood is visible or not, and hence must be disposed of, or sterilised if intended for re-use. Equipment such as lancets and tissues must be used only once and then disposed of even when making repeated measurements on the same subject.
+:::
+
+##### CardioChek PA Technique
+
+1.  Switch the unit on with the arrow button on the right hand side
+2.  Ensure the **strip code** you are using matches the code on the chip.
+3.  Slide the strip into the unit, ensuring that it is oriented in the correct direction.
+4.  Await the instructions on the screen and then place the blood sample onto the strip. Make sure you **cover the area fully**, ensuring an even spread of blood. You need to be quick when placing blood onto the test strip as analysis commences automatically when the first drop of blood touches the strip.
+5.  The analyser will take a moment to produce the results. When analysing Cholesterol/Triglycerides, press the arrow button to scroll through the different results.
+6.  Record all results. Note: For some values, you may receive a score preceded by “\<” or “\>”, indicating that the score was less than or greater than the lower or upper limit for the testing device. Please make sure you pay attention to this when writing your scores down.
+7.  Once all results are recorded, remove the strip, clean the area as appropriate, and dispose of any materials used.
+
+Some of the values are directly measured, whereas the following calculation is used to indirectly assess LDL cholesterol:
+
+> LDL = *Total cholesterol – HDL – (Triglycerides / 5)*
+
+::: {.callout-note appearance="simple"}
+Please be careful with the analysers and strips – they are expensive pieces of equipment
+:::
+
+{{< pagebreak >}}
+
+### Results
+
+#### Patient Details
+
+e.g., name, age, health history\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+#### Test Data
+
+| Variable          | Result |
+|-------------------|--------|
+| Total Cholesterol | \_\_   |
+| Triglycerides     | \_\_   |
+| HDL Cholesterol   | \_\_   |
+| LDL Cholesterol   | \_\_   |
+| TC:HDL Ratio      | \_\_   |
+
+#### Comments
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+{{< pagebreak >}}
+
+#### Case Study
+
+In your pairs, generate pre-post test data for a hypothetical patient who presents with hyperlipidaemia and hypercholesterolaemia prior to completing an 8-week exercise program. Estimate the effect of the exercise intervention on the patient's lipid profile.
+
+| Variable          | Pre-Intervention | Post-Intervention |
+|-------------------|------------------|-------------------|
+| Total Cholesterol | \_\_             | \_\_              |
+| Triglycerides     | \_\_             | \_\_              |
+| HDL Cholesterol   | \_\_             | \_\_              |
+| LDL Cholesterol   | \_\_             | \_\_              |
+| TC:HDL Ratio      | \_\_             | \_\_              |
+
+Write an exercise management plan for this patient, taking into account diet, lifestyle, exercise, and medications. Use internet searches or GenAI to identify some common medications. Provide some examples of exercise sessions you would include to provide a sufficient stimulus to improve their cardiovascular and metabolic fitness, and describe why these would be effective for improving the patient's lipid profile.\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+{{< pagebreak >}}
+
+### Discussion
+
+1.  How do the results of the class member that you tested compare to the normative scores? Within the range? Outside the range? Can you identify any reasons for these results?\
+    \
+    \
+    \
+    \
+    \
+2.  What are some of the important dietary considerations when dealing with hypercholesterolemia and hyperlipidemia\
+    \
+    \
+    \
+    \
+    \
+3.  Discuss the exercise programming issues when considering exercise as a form of treatment for patients with hyperlipidemia and hypercholesterolemia. Include mention of the safety concerns.\
+    \
+    \
+    \
+    \
+    \
+4.  Why is LDL cholesterol such an important physiological parameter to measure?\
+    \
+    \
+    \
+    \
+    \

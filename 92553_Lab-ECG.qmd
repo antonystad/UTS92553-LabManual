@@ -9,6 +9,12 @@ Watch the ECG content in your Canvas modules to learn important foundational kno
 
 If you have not done so yet, complete the Canvas quiz relating to pulmonary conditions from the Week 2 modules.
 
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+
 {{< pagebreak >}}
 
 ## Lab Session
@@ -227,46 +233,119 @@ After the lab class you are encouraged to examine the wealth of information avai
 
 ### Discussion
 
-1.  Were any cardiac irregularities noted in the 12-lead ECG rhythm strip from the patient you tested at rest? If so, what were they and where are they likely to originate from?\
-    \
-    \
-    \
+1.  Were any cardiac irregularities noted in the 12-lead ECG rhythm strip from the patient you tested at rest? If so, what were they and where are they likely to originate from?
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
 
 2.  Discuss any special considerations and limitations to ECG testing in:
 
-    -   Patients with hypertension\
-        \
-        \
-
-    -   Females\
-        \
-        \
-
-    -   Patients recovering from a myocardial infarction\
-        \
-        \
+    ```{=html}
+    <table>
+      <colgroup>
+        <col style="width:30%">
+        <col style="width:70%">
+      </colgroup>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left"><b>Patients with hypertension:</b></td>
+                <td style="text-align: left"><div contenteditable></div></td>
+            </tr>
+            <tr>
+                <td style="text-align: left"><b>Females:</b></td>
+                <td style="text-align: left"><div contenteditable></div></td>
+            </tr>
+            <tr>
+                <td style="text-align: left"><b>Patients recovering from myocardial infarction:</b></td>
+                <td style="text-align: left"><div contenteditable></div></td>
+            </tr>
+        </tbody>
+    </table>
+    ```
 
 3.  Briefly describe how the 12 leads on an ECG are determined from only 10 electrodes.
 
-    \
-    \
-    \
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
 
 4.  List 3 procedures that can be undertaken to ensure a good quality ECG signal during exercise.
 
-    \
-    \
-    \
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
 
-5.  What is one main **similarity** and one main **difference** between the waveforms of the resting ECG output and the ECG output obtained during exercise? Use Lead I/Lead II and V4/V5 for this analysis\
-    \
-    \
-    \
+5.  What is one main **similarity** and one main **difference** between the waveforms of the resting ECG output and the ECG output obtained during exercise? Use Lead I/Lead II and V4/V5 for this analysis
 
-6.  If you were required to test a sedentary 55 year old male with exertional dyspnea, borderline hypertension and a family history of heart disease, which treadmill protocol would be the most appropriate to select, and why?\
-    \
-    \
-    \
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+6.  If you were required to test a sedentary 55 year old male with exertional dyspnea, borderline hypertension and a family history of heart disease, which treadmill protocol would be the most appropriate to select, and why?
+
+    ```{=html}
+    <table>
+        <thead>
+        </thead>
+        <tbody style="border-bottom: 1px solid #ddd">
+            <tr>
+                <td style="text-align: left">
+                    <div contenteditable></div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    ```
+
+
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
 
 {{< pagebreak >}}
 

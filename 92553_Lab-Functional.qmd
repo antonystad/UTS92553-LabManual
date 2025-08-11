@@ -5,35 +5,15 @@ subtitle: "Assessments for Complex Cases and Special Populations"
 
 ## Pre-Lab Activity
 
-Please complete the brief quiz to refresh your thinking about some general concepts covered in Exercise Physiology. This quiz is also available in your Canvas modules.
+Complete the quick quiz on Canvas to refresh your thinking about some general concepts covered in Exercise Physiology.
 
-Please also watch the Canvas content on the profession of Accredited Exercise Physiology.
+Watch the Canvas content on the profession of Accredited Exercise Physiology.
 
-1.  An exercise contraindication is defined as:\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
 
-2.  Training for hypertrophy focuses on the concept of time-under-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and uses an approximate rep/set range of \_\_\_\_\_\_\_\_-\_\_\_\_\_\_\_\_ sets of \_\_\_\_\_\_\_\_-\_\_\_\_\_\_\_\_ reps
-
-3.  List at least 4 factors that are defined as positive risk factors in the risk stratification profile\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-4.  Subjective ratings of exertion can be assessed via the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ scale which was devised by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. There are two commonly used scales, with one scale ranging from \_\_\_\_\_\_\_\_-\_\_\_\_\_\_\_\_ and the other ranging from \_\_\_\_\_\_\_\_-\_\_\_\_\_\_\_\_.
-
-5.  Stretching has been demonstrated to conclusively improve exercise performance\
-    TRUE / FALSE
-
-6.  Blood pressure is assessed by listening for the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ sounds. A ‘normal’ blood pressure score is \_\_\_\_\_\_\_\_/\_\_\_\_\_\_\_\_ whereas a ‘borderline high’ score is \_\_\_\_\_\_\_\_/\_\_\_\_\_\_\_\_.
-
-7.  FITT stands for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
-
-8.  A BMI score of 34.2 is classed as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-9.  For a given power output, the Heart Rate response will be HIGHER / LOWER for upper body exercise when compared to lower body exercise.
-
-10. An electrocardiogram provides information about:\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**All text entry boxes will clear if you leave or refresh this page**
+:::
 
 {{< pagebreak >}}
 
@@ -114,76 +94,216 @@ In small groups, conduct each of the tests and record your results below.
 
 ##### Dynamic Tests
 
-| Test                          | Trial 1 (secs) | Trial 2 (secs) |
-|-------------------------------|----------------|----------------|
-| Sit-to-Stand                  | \_\_           | \_\_           |
-| Timed Up and Go               | \_\_           | \_\_           |
-| 10m Fast Walk (5-metre time)  | \_\_           | \_\_           |
-| 10m Fast Walk (10-metre time) | \_\_           | \_\_           |
-| Stair Test                    | \_\_           | \_\_           |
+```{=html}
+<table>
+    <caption>
+        <p>Results for Dynamic Tests</p>
+    </caption>
+    <thead>
+        <tr>
+            <th>Test</th>
+            <th>Trial 1 (secs)</th>
+            <th>Trial 2 (secs)</th>
+        </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td>Sit-to-Stand</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>Timed Up and Go</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>10m Fast Walk (5m split)</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>10m Fast Walk (total time)</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>Stair Test</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+    </tbody>
+</table>
+```
 
-: {.striped tbl-colwidths="\[50,25,25\]"}
+\
 
 ##### 15-second Balance Tests
 
-| Trial | Trial 1 (Foot Touchdowns) | Trial 2 (Foot Touchdowns) |
-|----|----|----|
-| Right Foot, Eyes Open | \_\_ | \_\_ |
-| Left Foot, Eyes Open | \_\_ | \_\_ |
-| Right Foot, Eyes Closed | \_\_ | \_\_ |
-| Left Foot, Eyes Closed | \_\_ | \_\_ |
-
-: {.striped tbl-colwidths="\[50,25,25\]"}
+```{=html}
+<table>
+    <caption>Results for Balance Tests</caption>
+    <thead>
+        <tr>
+            <th>Trial</th>
+            <th>Trial 1 (Foot Touchdowns)</th>
+            <th>Trial 2 (Foot Touchdowns) </th>
+        </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td>Right Foot, Eyes Open</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>Left Foot, Eyes Open</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>Right Foot, Eyes Closed</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td>Left Foot, Eyes Closed</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+    </tbody>
+</table>
+```
 
 ::: {.callout-note appearance="simple"}
 ## Circle/highlight the best trial result in each test
 :::
 
+\
+
 ##### 1.6km Walk Test
 
-In the interest of time, you do not need to complete this test during the lab (typical duration 10-16 minutes). You can use the following values to calculate the estimated VO~2max~ using the equation above.
+In the interest of time, you do not need to complete this test during the lab (typical duration 10-16 minutes). You can use the following values to calculate the estimated VO~2max~ using the equation below.
 
-| Mass (kg) | Age (yr) | Gender \[0/1\] | Time (min) | HR (bpm) | EstVO~2max~ (absolute - L.min^-1^) | EstVO~2max~ (relative - ml.kg^-1^.min^-1^) |
-|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 77 | 54 | 1 | 13:45 | 137 | \_\_ | \_\_ |
+> *VO~2~max (L/min) = 6.9652 + (0.0091 × body mass) – (0.0257 × age) + (0.5955 × gender\[female=0, male=1\]) – (0.2240 × time) – (0.0115 × heart rate)*
 
-: {.striped}
+```{=html}
+<table>
+    <caption>Results for 1.6km Walk Test</caption>
+    <thead>
+        <tr>
+            <th>Mass (kg)</th>
+            <th>Age (yr)</th>
+            <th>Gender [0/1]</th>
+            <th>Time (min)</th>
+            <th>HR (bpm)</th>
+            <th>EstVO2max (absolute - L.min<sup>-1</sup>)</th>
+            <th>EstVO2max (relative - ml.kg<sup>-1</sup>.min<sup>-1</sup>) </th>
+        </tr>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td>77</td>
+            <td>54</td>
+            <td>1</td>
+            <td>13:45</td>
+            <td>137</td>
+            <td><div contenteditable></div></td>
+            <td><div contenteditable></div></td>
+        </tr>
+    </tbody>
+</table>
+```
 
-{{< pagebreak >}}
+\
+
+ {{< pagebreak >}}
 
 ### Discussion
 
-1.  Which of the tests that you performed today would exhibit correlations/relationships between each other?\
-    \
-    \
-    \
-    \
-    \
+1\. Which of the tests that you performed today would exhibit correlations/relationships between each other?
 
-2.  List some of the limitations when performing the 15 sec eyes open/closed balance tests.\
-    \
-    \
-    \
-    \
-    \
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-3.  What are the benefits of performing the 6-minute walk test over the 1.6km walk test? What are the limitations?\
-    \
-    \
-    \
-    \
-    \
+2\. List some of the limitations when performing the 15 sec eyes open/closed balance tests.
 
-4.  How does muscle strength relate to functional performance and the performance of activities of daily living?\
-    \
-    \
-    \
-    \
-    \
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-5.  How does muscle power relate to the risk of falling?\
-    \
-    \
-    \
-    \
-    \
+3\. What are the benefits of performing the 6-minute walk test over the 1.6km walk test? What are the limitations?
+
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
+4\. How does muscle strength relate to functional performance and the performance of activities of daily living?
+
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
+5\. How does muscle power relate to the risk of falling?
+
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+

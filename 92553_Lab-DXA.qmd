@@ -9,6 +9,12 @@ Read Chapter 25 of the textbook which relates to the topic of osteoporosis.
 
 Watch the DXA content in your Canvas modules to learn important foundational knowledge about bone and body composition, providing important context for DXA use in various populations and the the activities in this lab.
 
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+
 {{< pagebreak >}}
 
 ## Lab Session
@@ -93,59 +99,107 @@ You will select 3-4 case conditions from the table below, and spend \~20 minutes
 
 8.  Once you have completed step 7, move to a different gym equipment/exercise and repeat steps 2-7
 
-**Notes**
+```{=html}
+<table>
+  <colgroup>
+    <col style="width:20%">
+    <col style="width:80%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr style="background-color: #CAEEFB">
+            <td><b>Exercise 1</b></td>
+            <td style="text-align: left">
+              <div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Case Condition</b></td>
+            <td style="text-align: left">
+              <div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Modifications</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Case Notes</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr style="background-color: #CAEEFB">
+            <td><b>Exercise 2</b></td>
+            <td style="text-align: left">
+              <div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Case Condition</b></td>
+            <td style="text-align: left">
+              <div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Modifications</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Case Notes</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr style="background-color: #CAEEFB">
+            <td><b>Exercise 3</b></td>
+            <td style="text-align: left">
+              <div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Case Condition</b></td>
+            <td style="text-align: left">
+              <div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Modifications</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Case Notes</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr style="background-color: #CAEEFB">
+            <td><b>Exercise 4</b></td>
+            <td style="text-align: left">
+              <div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Case Condition</b></td>
+            <td style="text-align: left">
+              <div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Modifications</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Case Notes</b></td>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
 
-Exercise 1 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Case Condition 1 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Case Notes
-
-\
-\
-\
-\
-\
-\
-\
-\
-Case Condition 2 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Case Notes
-
-\
-\
-\
-\
-\
-\
-\
-\
-Exercise 2 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Case Condition 3 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Case Notes
-
-\
-\
-\
-\
-\
-\
-\
-\
-Case Condition 4 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Case Notes
-
-\
-\
-\
-\
-\
-\
-\
 \
 
 {{< pagebreak >}}
@@ -153,3 +207,27 @@ Case Notes
 ### Discussion
 
 Throughout the lab we will be viewing and discussing content related to osteoporosis, DXA, and exercise modification for chronic conditions. You can write any notes related to the content, discussions, and practical activities below.
+
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
+\
+
+
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+

@@ -9,6 +9,12 @@ Read chapter 22 of the textbook which relates to the topic of cancer.
 
 Complete the Pre-Lab Quiz on cancer in your Canvas Modules.
 
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::
+
 {{< pagebreak >}}
 
 ## Lab Session
@@ -71,29 +77,39 @@ Samara is 10 weeks post surgery (double mastectomy), and is completing her first
 
 Consider the following:
 
-**Objectives/goals of the exercise program for this patient**\
-\
-\
-\
+```{=html}
+<table>
+  <colgroup>
+    <col style="width:40%">
+    <col style="width:60%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td><b>Objectives/goals of the exercise program for this patient</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>General health considerations</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Health implications of surgery, chemotherapy, radiotherapy</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Breast cancer-specific health considerations</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Medical assessments prior to exercise</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**General health considerations**\
-\
-\
-\
-
-**Health implications of surgery, chemotherapy, radiotherapy**\
-\
-\
-\
-
-**Breast cancer-specific health considerations**\
-\
-\
-\
-
-**Medical assessments prior to exercise**\
-\
-\
 \
 
 {{< pagebreak >}}
@@ -106,29 +122,39 @@ Dev is 12 weeks post surgery (ostomy), and is undergoing both chemotherapy and r
 
 Consider the following:
 
-**Objectives/goals of the exercise program for this patient**\
-\
-\
-\
+```{=html}
+<table>
+  <colgroup>
+    <col style="width:40%">
+    <col style="width:60%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td><b>Objectives/goals of the exercise program for this patient</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>General health considerations</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Health implications of surgery, chemotherapy, radiotherapy</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Breast cancer-specific health considerations</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Medical assessments prior to exercise</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**General health considerations**\
-\
-\
-\
-
-**Health implications of surgery, chemotherapy, radiotherapy**\
-\
-\
-\
-
-**Colon cancer and ostomy-specific health considerations**\
-\
-\
-\
-
-**Medical assessments prior to exercise**\
-\
-\
 \
 
 {{< pagebreak >}}
@@ -141,29 +167,39 @@ Meriva is currently undergoing chemotherapy and radiotherapy.
 
 Consider the following:
 
-**Objectives/goals of the exercise program**\
-\
-\
-\
+```{=html}
+<table>
+  <colgroup>
+    <col style="width:40%">
+    <col style="width:60%">
+  </colgroup>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td><b>Objectives/goals of the exercise program for this patient</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>General health considerations</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Health implications of surgery, chemotherapy, radiotherapy</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Breast cancer-specific health considerations</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+        <tr>
+            <td><b>Medical assessments prior to exercise</b></td>
+            <td><div contenteditable></div></td>
+        </tr>
+    </tbody>
+</table>
+```
 
-**General health considerations**\
-\
-\
-\
-
-**Health implications of surgery, chemotherapy, radiotherapy**\
-\
-\
-\
-
-**Bone cancer-specific health considerations**\
-\
-\
-\
-
-**Medical assessments prior to exercise**\
-\
-\
 \
 
 {{< pagebreak >}}
@@ -172,11 +208,24 @@ Consider the following:
 
 Throughout the lab we will be viewing and discussing content related to the prevention and treatment of cancer. You can write any notes related to the content, discussions, and case study activities below.
 
+```{=html}
+<table>
+    <thead>
+    </thead>
+    <tbody style="border-bottom: 1px solid #ddd">
+        <tr>
+            <td style="text-align: left">
+                <div contenteditable></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+```
+
 \
-\
-\
-\
-\
-\
-\
-\
+
+::: {.callout-important appearance="simple"}
+If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
+
+**All text entry boxes will clear if you leave or refresh this page**
+:::

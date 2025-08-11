@@ -1,0 +1,131 @@
+---
+title: "Week 11 - Exercise & Ageing"
+subtitle: "Exercise Assessment, Programming, and Delivery for Older Individuals"
+---
+
+## Pre-Lab Activity
+
+Read Chapter 33 of the textbook which relates to the topic of older aged populations.
+
+Read the following articles, available in your Canvas Modules or by following the links below
+
+> Hunter, G. R., McCarthy, J. P., & Bamman, M. M. (2004). Effects of resistance training on older adults. *Sports medicine*, *34*, 329-348. <https://doi-org.ezproxy.lib.uts.edu.au/10.2165/00007256-200434050-00005>
+
+> Levinger, P., Sales, M., Polman, R., Haines, T., Dow, B., Biddle, S. J., ... & Hill, K. D. (2018). Outdoor physical activity for older people—The senior exercise park: Current research, challenges and future directions. *Health Promotion Journal of Australia*, *29*(3), 353-359. <https://doi-org.ezproxy.lib.uts.edu.au/10.1002/hpja.60>
+
+Complete the Pre-Lab Quiz on ageing in your Canvas Modules.
+
+{{< pagebreak >}}
+
+## Lab Session
+
+### Introduction
+
+Medical and lifestyle advances have allowed us to live longer and enjoy greater quality of life as we age. As a result, nations' populations of older adults has increased greatly; the number of Australians aged over 65 will more than double in the next 40 years (Intergenerational Report, 2023). That brings challenges that we must overcome.
+
+While our general health and well-being will be improved across our lifespan, there is no escaping the ageing process, which results in reduced functional capacity due to age-associated cardiovascular, respiratory, and musculoskeletal disease (among others). Many of these diseases are interactive and compounding. Ultimately, it can result in an inability to perform activities of daily living (ADLs) and, eventually, a loss of independence, becoming more reliant on others for care.
+
+By now, we should all appreciate the incredible impact of exercise and physical activity on our health and well-being. We know it can improve our functional capacity, and that is true regardless of age. As such, exercise can play an important role in delaying the onset or degree of age-related disease, and maintain our independence and quality of life as we get older.
+
+As with any clinical population, there are important considerations to make when assessing, prescribing, and delivering exercise programs for older individuals. The objectives of this lab are to:
+
+-   Explore the effects of ageing on our health and functional capacity, including typical age-related diseases
+
+-   Examine the evidence for exercise to support healthy ageing and improve quality of life
+
+-   Develop an understanding of exercise prescription considerations in ageing populations
+
+#### Age-related Physiological Changes
+
+Between the ages of 20 and 80, there is typically a 50% decrease in Maximal Aerobic Capacity. The factors contributing to this remarkable decrease in cardiorespiratory fitness include: decreased a-vO~2~ difference, heart rate, and cardiac output, increased systemic vascular resistance and end-diastolic volume, and decreased cardiac contractility and ejection fraction. Overall, these result in increased blood pressure, less cardiac efficiency, and less ability to supply oxygen to the working muscles.
+
+![From Ehrman, J. K., Gordon, P. M., Visich, P. S., & Keteyian, S. J. (Eds.). (2023). Chapter 33. Clinical exercise physiology: Exercise management of chronic diseases and special populations (5th Ed). Human Kinetics.](images/Ageing_tab33_01.png){fig-align="center" width="100%"}
+
+{{< pagebreak >}}
+
+#### Functional Capacity Assessments
+
+![From Ehrman, J. K., Gordon, P. M., Visich, P. S., & Keteyian, S. J. (Eds.). (2023). Chapter 33. Clinical exercise physiology: Exercise management of chronic diseases and special populations (5th Ed). Human Kinetics.](images/Ageing_tab33_02.png){fig-align="center"}
+
+{{< pagebreak >}}
+
+#### Exercise Prescription for Older Patients
+
+![From Ehrman, J. K., Gordon, P. M., Visich, P. S., & Keteyian, S. J. (Eds.). (2023). Chapter 33. Clinical exercise physiology: Exercise management of chronic diseases and special populations (5th Ed). Human Kinetics.](images/Ageing_tab33_03.png){fig-align="center"}
+
+{{< pagebreak >}}
+
+### Activity - Gym-based Training
+
+Along with cardiorespiratory and flexibility training, resistance training has wide-ranging benefits for older individuals. When prescribed and performed correctly, resistance training induces valuable acute and chronic responses and there are few (if any) individuals who should be advised against performing this type of training. However, safety is essential and will be a focus in this lab session.
+
+In this activity, you will use and extend your knowledge and practical skills developed in *Strength & Conditioning* and *Exercise Prescription* to prescribe and deliver gym-based exercises that consider the needs and abilities of older patients. Your tutor will provide various examples of gym-based exercises for older patients, especially those with chronic disease. It's your job in groups to make additional considerations that call upon your resistance training and coaching knowledge to develop appropriate training programming and exercises. This activity will take place in the Exercise Physiology Clinic (Level 2) and Resistance Training (Level 4) Gyms.
+
+1.  In your lab groups of 5-7 people, you will select 5 key lifts that you are familiar with, including one:
+
+    -   Upper body free weight exercise,
+
+    -   Upper body machine weight exercise,
+
+    -   Lower body free weight exercise, and
+
+    -   Lower body machine weight exercise
+
+2.  For each exercise chosen, have one person perform 10 reps as a young, healthy individual, while the group observes form and considers the key movement concepts
+
+3.  After completing the set, spend 2-3 minutes as a group considering appropriate exercise modifications to allow an older adult (\~75 years old) to complete the exercise safely
+
+4.  Have 2-3 people perform 10 reps of your modified exercise while the rest of the group observes movement replication, safety, and suitability (i.e., for individual ability and to achieve tissue stress)
+
+5.  Once the set is complete, reflect on the modified exercise, including how the 'patients' felt performing the movement, and any further adjustments you would make
+
+**Notes**
+
+\
+\
+\
+\
+\
+
+{{< pagebreak >}}
+
+### Activity - Outdoor Exercise
+
+Exercising outdoors can provide physical and mental health benefits for all ages. Many local governments are installing outdoor gyms as a health promotion investment to encourage physical activity and exercise among the community. However, these outdoor gyms may not consider the needs and abilities of older individuals, which poses safety risks and limits the effectiveness and health impact of these initiatives.
+
+In this activity, you will work within your groups to design a 'Seniors Park' that includes various types of gym-like equipment to perform callisthenic type resistance training in an outdoor exercise space. Your design must consider older individuals' functional abilities and needs to ensure users can safely perform activities that induce sufficient challenge physiologically and for motor control.
+
+-   Consider the layout, surfaces, equipment, and safety in your design
+
+-   Develop some ideas for custom outdoor resistance training equipment that will enable specific joint movements for older individuals - make sure you include activities that provide upper- and lower-body challenges
+
+-   Be creative in the types of equipment you include, such as benches, beams, bars, and ropes
+
+-   In pairs, write a description of one of your designed activities so that a new park user can understand what the exercise is, what muscles it uses, how to perform the activity safely, and what Activities of Daily Living it would be useful for
+
+Once completed, work together in your groups to design an outdoor exercise circuit using basic fitness equipment provided in class
+
+-   Create suitable and safe activities for use in an outdoor environment, e.g., at a park or beach, that make use of simple, cheap, and portable equipment
+
+-   Consider appropriate work and rest durations and intensities for older patients, and think about special safety considerations you will need to make, e.g., environment and equipment
+
+-   Discuss appropriate progressions to make each exercise more challenging, physically and technically
+
+-   Discuss additional equipment that may be useful for this context, or alternative types of exercise that could be considered
+
+**Notes**
+
+{{< pagebreak >}}
+
+### Discussion
+
+Throughout the lab we will be viewing and discussing content related to exercise and healthy ageing. You can write any notes related to the content, discussions, and case study activities below.
+
+\
+\
+\
+\
+\
+\
+\
+\
