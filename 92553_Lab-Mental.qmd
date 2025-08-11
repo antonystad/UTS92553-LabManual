@@ -69,8 +69,6 @@ Physical activity interventions can be impactful, safe, and cost-effective. Howe
 </table>
 ```
 
-\
-
 ![Image: Life in Mind](images/Mental_lifeinmind1.png){width="80%"}
 
 {{< pagebreak >}}

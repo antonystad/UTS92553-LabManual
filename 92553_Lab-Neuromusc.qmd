@@ -1,5 +1,5 @@
 ---
-title: "Week 12 - Neuromuscular Rehabilitation"
+title: "Week 13 - Neuromuscular Rehabilitation"
 subtitle: "Electromyostimulation for Rehabilitation and Recovery"
 ---
 
@@ -199,9 +199,7 @@ Make notes below about the target muscles chosen, positioning of electrodes, and
 </table>
 ```
 
-\
-
-##### Lab Question 1
+Lab Question 1
 
 ```{=html}
 <table>
@@ -220,9 +218,7 @@ Make notes below about the target muscles chosen, positioning of electrodes, and
 </table>
 ```
 
-\
-
-##### Lab Question 2
+Lab Question 2
 
 ```{=html}
 <table>
@@ -240,8 +236,6 @@ Make notes below about the target muscles chosen, positioning of electrodes, and
     </tbody>
 </table>
 ```
-
-\
 
 {{< pagebreak >}}
 
@@ -262,8 +256,6 @@ Throughout the lab we will be viewing and discussing content related to muscle s
     </tbody>
 </table>
 ```
-
-\
 
 ::: {.callout-important appearance="simple"}
 If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device

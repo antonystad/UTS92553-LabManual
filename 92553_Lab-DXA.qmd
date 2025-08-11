@@ -1,5 +1,5 @@
 ---
-title: "Week 13 - Osteoporosis & Exercise Modification"
+title: "Week 12 - Osteoporosis & Exercise Modification"
 subtitle: "Bone & Body Composition, and Chronic Diseases"
 ---
 
@@ -200,8 +200,6 @@ You will select 3-4 case conditions from the table below, and spend \~20 minutes
 </table>
 ```
 
-\
-
 {{< pagebreak >}}
 
 ### Discussion
@@ -222,12 +220,8 @@ Throughout the lab we will be viewing and discussing content related to osteopor
 </table>
 ```
 
-\
-
-
 ::: {.callout-important appearance="simple"}
 If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
 
 **All text entry boxes will clear if you leave or refresh this page**
 :::
-

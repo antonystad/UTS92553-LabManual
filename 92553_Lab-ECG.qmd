@@ -66,7 +66,7 @@ In the ECG chart above, you will notice that the QRS complex is not always posit
 :::
 
 | Lead | Type | Plane | Location | View of Heart |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | I | Bipolar | Frontal (Lateral) | Reads from Right Arm to Left Arm | Lateral wall of left ventricle |
 | II | Bipolar | Frontal (Inferior) | Reads from Right Arm to Left Leg | Inferior wall of left ventricle |
 | III | Bipolar | Frontal (Inferior) | Reads from Left arm to Left Leg | Inferior wall of left ventricle |
@@ -339,7 +339,6 @@ After the lab class you are encouraged to examine the wealth of information avai
         </tbody>
     </table>
     ```
-
 
 ::: {.callout-important appearance="simple"}
 If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device

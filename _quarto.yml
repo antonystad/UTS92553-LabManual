@@ -46,8 +46,8 @@ book:
     - 92553_Lab-MidsemExam.qmd
     - 92553_Lab-Cancer.qmd
     - 92553_Lab-Ageing.qmd
-    - 92553_Lab-Neuromusc.qmd
     - 92553_Lab-DXA.qmd
+    - 92553_Lab-Neuromusc.qmd
     - 92553_Lab-Appendices.qmd
     # - references.qmd
 
@@ -60,7 +60,7 @@ format:
     toc-depth: 4
     number-sections: false
     title-block-banner: true
-    df-print: kable
+    # df-print: kable
   pdf:
     documentclass: scrbook
     pdf-engine: xelatex
@@ -76,7 +76,7 @@ format:
     number-sections: false
     colorlinks: true
     # tbl-colwidths: auto
-    df-print: kable
+    # df-print: kable
     # template-partials:
     #   - before-body.tex
   docx:
@@ -84,7 +84,7 @@ format:
     toc-depth: 4
     number-sections: false
     fig-align: center
-    df-print: kable
+    # df-print: kable
 
 
 editor: visual

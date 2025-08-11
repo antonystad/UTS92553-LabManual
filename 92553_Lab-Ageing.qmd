@@ -168,8 +168,6 @@ In this activity, you will use and extend your knowledge and practical skills de
 </table>
 ```
 
-\
-
 {{< pagebreak >}}
 
 ### Activity - Outdoor Exercise
@@ -211,8 +209,6 @@ Once completed, work together in your groups to design an outdoor exercise circu
 </table>
 ```
 
-\
-
 {{< pagebreak >}}
 
 ### Discussion
@@ -233,11 +229,8 @@ Throughout the lab we will be viewing and discussing content related to exercise
 </table>
 ```
 
-\
-
 ::: {.callout-important appearance="simple"}
 If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device
 
 **All text entry boxes will clear if you leave or refresh this page**
 :::
-

@@ -136,8 +136,6 @@ In small groups, conduct each of the tests and record your results below.
 </table>
 ```
 
-\
-
 ##### 15-second Balance Tests
 
 ```{=html}
@@ -179,8 +177,6 @@ In small groups, conduct each of the tests and record your results below.
 ## Circle/highlight the best trial result in each test
 :::
 
-\
-
 ##### 1.6km Walk Test
 
 In the interest of time, you do not need to complete this test during the lab (typical duration 10-16 minutes). You can use the following values to calculate the estimated VO~2max~ using the equation below.
@@ -217,7 +213,7 @@ In the interest of time, you do not need to complete this test during the lab (t
 
 \
 
- {{< pagebreak >}}
+{{< pagebreak >}}
 
 ### Discussion
 
@@ -306,4 +302,3 @@ If you are using the online lab manual, when you have completed the lab content 
 
 **All text entry boxes will clear if you leave or refresh this page**
 :::
-

@@ -110,8 +110,6 @@ Consider the following:
 </table>
 ```
 
-\
-
 {{< pagebreak >}}
 
 #### Case Study 2
@@ -154,8 +152,6 @@ Consider the following:
     </tbody>
 </table>
 ```
-
-\
 
 {{< pagebreak >}}
 
@@ -200,8 +196,6 @@ Consider the following:
 </table>
 ```
 
-\
-
 {{< pagebreak >}}
 
 ### Discussion
@@ -221,8 +215,6 @@ Throughout the lab we will be viewing and discussing content related to the prev
     </tbody>
 </table>
 ```
-
-\
 
 ::: {.callout-important appearance="simple"}
 If you are using the online lab manual, when you have completed the lab content and discussion questions for this week, print this webpage to PDF to save a copy on your device

@@ -57,8 +57,7 @@ This link provides a simple online cardiovascular disease risk assessment tool d
 
 [cvdcheck.org.au](https://www.cvdcheck.org.au/)
 
-The site also provides useful guidelines and resources for health professionals and the general public.\
-\
+The site also provides useful guidelines and resources for health professionals and the general public.
 
 ##### Lab Question 1
 
@@ -221,8 +220,6 @@ Once complete, sum the values circled and write it in the Total row. You can the
 </table>
 ```
 
-\
-
 ##### Lab Question 2
 
 ```{=html}
@@ -242,8 +239,6 @@ Once complete, sum the values circled and write it in the Total row. You can the
 </table>
 ```
 
-\
-
 {{< pagebreak >}}
 
 ##### The Activities-Specific Balance Confidence (ABC) Scale
@@ -252,12 +247,32 @@ For each of the activities below, use the number line and associated descriptors
 
 If you do not currently do the activity in question, try to imagine how confident you would be if you had to do the activity. If you normally use a walking aid to do the activity or hold onto someone, rate your confidence as if you were using these supports.
 
-|                  |     |     |     |     |     |     |     |     |     |                |
-|-----------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---------------|
-|                0 | 10  | 20  | 30  | 40  | 50  | 60  | 70  | 80  | 90  | 100            |
-| Cannot do at all |     |     |     |     |     |     |     |     |     | Certain can do |
-
-: {.striped tbl-colwidths="\[27.5,5,5,5,5,5,5,5,5,5,27.5\]"}
+```{=html}
+<table>
+  <thead>
+    <tr style="text-align:center">
+      <th style="text-align:right">0</th>
+      <th>10</th>
+      <th>20</th>
+      <th>30</th>
+      <th>40</th>
+      <th>50</th>
+      <th>60</th>
+      <th>70</th>
+      <th>80</th>
+      <th>90</th>
+      <th style="text-align:left">100</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:right">Cannot do at all</td>
+      <td colspan="9"></td>
+      <td style="text-align:left">Certain can do</td>
+    </tr>
+  </tbody>
+</table>
+```
 
 ```{=html}
 <table>
@@ -365,21 +380,38 @@ If you do not currently do the activity in question, try to imagine how confiden
 </table>
 ```
 
-\
-
 {{< pagebreak >}}
 
 ##### Self-Efficacy for Exercise (SEE) Scale
 
 This scale is a self-report of exercise self-efficacy (Resnick & Jenkins, 2000). There are 9 items to consider, with the total score is calculated by summing the responses to each question. This scale has a range of total scores from 0-90. A higher score indicates higher self-efficacy for exercise. The internal consistency has been reported as 0.92. When considering validity, the mental and physical health scores on the SF-12 questionnaire predicted efficacy expectations as measured by the SEE Scale. Furthermore, SEE efficacy expectations predicted exercise participation.
 
-|             0 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10             |
-|--------------:|-----|-----|-----|-----|-----|-----|-----|-----|-----|:---------------|
-| Not Confident |     |     |     |     |     |     |     |     |     | Very Confident |
-
-: {.striped tbl-colwidths="\[10,3,3,3,3,3,3,3,3,3,10\]"}
-
 ```{=html}
+<table>
+  <thead>
+    <tr style="text-align:center">
+      <th style="text-align:right">0</th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+      <th>6</th>
+      <th>7</th>
+      <th>8</th>
+      <th>9</th>
+      <th style="text-align:left">10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:right">Not Confident</td>
+      <td colspan="9"></td>
+      <td style="text-align:left">Very Confident</td>
+    </tr>
+  </tbody>
+</table>
+
 <table>
     <caption>Self-Efficacy for Exercise Scale</caption>
     <colgroup>
@@ -461,8 +493,6 @@ This scale is a self-report of exercise self-efficacy (Resnick & Jenkins, 2000).
     </tbody>
 </table>
 ```
-
-\
 
 {{< pagebreak >}}
 
@@ -795,8 +825,6 @@ Below are statements that relate to ideas about exercise. Please indicate the de
 </table>
 ```
 
-\
-
 {{< pagebreak >}}
 
 ##### Simple Benefits/Barriers Assessment
@@ -867,8 +895,6 @@ Below are statements that relate to ideas about exercise. Please indicate the de
 </table>
 ```
 
-\
-
 ##### Lab Question 3
 
 ```{=html}
@@ -916,8 +942,6 @@ Below are statements that relate to ideas about exercise. Please indicate the de
     </tbody>
 </table>
 ```
-
-\
 
 ### Exercise Adherence Assessments
 
@@ -1177,8 +1201,6 @@ To calculate the percentage difference you need to use the following formula:
     </table>
     ```
 
-<!-- -->
-
 2.  Explain why pedometers are considered to be useful for general health.
 
     ```{=html}
@@ -1195,8 +1217,6 @@ To calculate the percentage difference you need to use the following formula:
     </table>
     ```
 
-<!-- -->
-
 3.  Is the level of error produced by the GPS monitor acceptable? What recommendations would you make to improve the quality of the data? Would you recommend the use of a GPS monitor in the determination of distance covered on a daily basis? Why or why not?
 
     ```{=html}
@@ -1212,8 +1232,6 @@ To calculate the percentage difference you need to use the following formula:
         </tbody>
     </table>
     ```
-
-<!-- -->
 
 4.  Discuss the role of physical activity in the:
 
@@ -1234,8 +1252,6 @@ To calculate the percentage difference you need to use the following formula:
     </table>
     ```
 
-<!-- -->
-
 5.  Prescribe a training program for an obese individual with type 2 diabetes who is looking to lose \~20kg over a 10 month period? Explain distances, intensity, modality, frequency etc. Would you encourage the use of a pedometer or GPS unit? If so, in what way would it be included?
 
     ```{=html}
@@ -1251,8 +1267,6 @@ To calculate the percentage difference you need to use the following formula:
         </tbody>
     </table>
     ```
-
-<!-- -->
 
 6.  Now consider what programming variables would be different for prescribing exercise for individuals with arthritis or osteoporosis. Would you encourage the use of a pedometer or GPS unit? If so, in what way would it be included?
 
