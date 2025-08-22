@@ -88,7 +88,7 @@ The measure of Triglycerides provides information pertaining to the level of cir
 Blood chemistry is often assessed in a fasted state. This removes the acute nature of changes in certain hormones (especially insulin) which can affect blood chemistry and provides a more accurate representation of current health status. Each of the variables that you will be assessing today may be affected by pre-test diet. Triglyceride levels often remain relatively high for a sustained period after eating (6-8 hours) as food is digested.
 
 | Variable | Ideal | Borderline High | High Risk |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Total Cholesterol | ≤ 5.18 mmol/L (200 mg/dL) | 5.19-6.20 mmol/L (200-239 mg/dL) | ≥ 6.21 mmol/L (240 mg/dL) |
 | HDL Cholesterol (Note: Higher values are better) | ≥ 1.55 mmol/L (60 mg/dL) |  | ≤ 1.04 mmol/L (40 mg/dL) |
 | LDL Cholesterol | ≤ 2.59 mmol/L (100 mg/dL) | 2.60-4.20 mmol/L (100-160 mg/dL) | ≥ 4.21 mmol/L (160 mg/dL) |

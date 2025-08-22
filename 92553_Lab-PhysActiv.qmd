@@ -498,7 +498,7 @@ This scale is a self-report of exercise self-efficacy (Resnick & Jenkins, 2000).
 
 ##### Exercise Benefits/Barriers Scale
 
-Below are statements that relate to ideas about exercise. Please indicate the degree to which you agree or disagree with the statements by circling SA for strongly agree, A for agree, D for disagree or SDfor strongly disagree (Sechrist et al., 1987).
+Below are statements that relate to ideas about exercise. Please indicate the degree to which you agree or disagree with the statements by circling SA for strongly agree, A for agree, D for disagree or SD for strongly disagree (Sechrist et al., 1987).
 
 ```{=html}
 <table>
@@ -1002,18 +1002,6 @@ Additionally, the term 'adherence' better encapsulates a more holistic buy-in fr
 
 ### References
 
--   American College of Sports Medicine (2017). ACSM’s Guidelines for exercise testing and prescription, 10^th^ edn. Lippincott Williams and Wilkins: Philadelphia.
-
--   Godin, G. (2011). The Godin-Shephard leisure time physical activity questionnaire. *Health & Fitness Journal of Canada*. 4(1): 18-22.
-
--   Hltaky, M.A., Boineau, R.E. et al. (1989). A brief self-administered questionnaire to determine functional capacity (The Duke Activity Status Index). *American Journal of Cardiology*. 64: 651-654.
-
--   Powell, L.E. & Myers, A.M. (1995). The Activities-specific Balance Confidence (ABC) Scale. *Journal of Gerontology Series A: Biological Sciences and Medical Sciences*. 50(1): M28-M34.
-
--   Resnick, B., & Jenkins, L. S. (2000). Testing the Reliability and Validity of the Self-Efficacy for Exercise Scale. *Nursing Research*, 49: 154-159.
-
--   Sechrist, K.R., Walker, S.N. & Pender, N.J. (1987). Development and psychometric evaluation of the Exercise Benefits/Barriers Scale. *Research in Nursing and Health*, 10: 357-365.
-
 {{< pagebreak >}}
 
 ## Lab Session - Part B
@@ -1293,6 +1281,22 @@ If you are using the online lab manual, when you have completed the lab content 
 {{< pagebreak >}}
 
 ### References
+
+**Part A**
+
+-   American College of Sports Medicine (2017). ACSM’s Guidelines for exercise testing and prescription, 10^th^ edn. Lippincott Williams and Wilkins: Philadelphia.
+
+-   Godin, G. (2011). The Godin-Shephard leisure time physical activity questionnaire. *Health & Fitness Journal of Canada*. 4(1): 18-22.
+
+-   Hltaky, M.A., Boineau, R.E. et al. (1989). A brief self-administered questionnaire to determine functional capacity (The Duke Activity Status Index). *American Journal of Cardiology*. 64: 651-654.
+
+-   Powell, L.E. & Myers, A.M. (1995). The Activities-specific Balance Confidence (ABC) Scale. *Journal of Gerontology Series A: Biological Sciences and Medical Sciences*. 50(1): M28-M34.
+
+-   Resnick, B., & Jenkins, L. S. (2000). Testing the Reliability and Validity of the Self-Efficacy for Exercise Scale. *Nursing Research*, 49: 154-159.
+
+-   Sechrist, K.R., Walker, S.N. & Pender, N.J. (1987). Development and psychometric evaluation of the Exercise Benefits/Barriers Scale. *Research in Nursing and Health*, 10: 357-365.
+
+**Part B**
 
 -   Duncan, M. J., Mummery, W. K. & Dascombe, B. J. (2007). Utility of Global Positioning System to Measure Active Transport in Urban Areas. *Med Sci Sports Exerc.* 39(10): 1851–1857.
 
