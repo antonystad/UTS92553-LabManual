@@ -43,10 +43,10 @@ book:
     - 92553_Lab-Lipids.qmd
     - 92553_Lab-CVcases.qmd
     - 92553_Lab-MidsemExam.qmd
+    - 92553_Lab-DXA.qmd
     - 92553_Lab-Cancer.qmd
     - 92553_Lab-Mental.qmd
     - 92553_Lab-Ageing.qmd
-    # - 92553_Lab-DXA.qmd
     - 92553_Lab-Neuromusc.qmd
     - 92553_Lab-Appendices.qmd
     # - references.qmd
