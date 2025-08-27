@@ -6,7 +6,7 @@
 
 This laboratory manual has been compiled to be an integral component of subject content for 92553 Complex Exercise Management. It is designed to be an interactive learning resource, so please bring it to every class either on a device or printed as a hard copy. We will work through various issues associated with a range of chronic diseases, with a view to exploring some of the practical elements of these topics related to safe and effective exercise prescription for people living with these complex conditions.
 
-The web version makes use of [hypothes.is annotations](https://web.hypothes.is/help/annotation-basics/), a tool that will allow you to make notes directly on pages both individually and collaboratively. [Visit the Quick Start Guide here](https://web.hypothes.is/start/) to create a free account and see how it works. You can start making notes by selecting text on the page and the options to annotate or highlight will pop up, or by clicking on the notes sidebar (right side of page). You can also use hypothes.is on Canvas or other online content by using the browser extension or bookmarklet. Private groups can be created to just focus on your notes, create a group to share among friends, or [join the ComplExMgmt 2025 group](https://hypothes.is/groups/ymxizJ6K/complexmgmt-2025) to work collaboratively with everyone. You can export these notes later for revision, or simply visit the page any time to see all comments.
+The web version makes use of [hypothes.is annotations](https://web.hypothes.is/help/annotation-basics/), a tool that will allow you to make notes directly on pages both individually and collaboratively. [Visit the Quick Start Guide here](https://web.hypothes.is/start/) to create a free account and see how it works. You can start making notes by selecting text on the page and the options to annotate or highlight will pop up, or by clicking on the notes sidebar (right side of page). You can also use hypothes.is on Canvas or other online content by using the browser extension or bookmarklet. Private groups can be created to just focus on your notes or to collaborate with a group of friends. You can export these notes later for revision, or simply visit the page any time to see all comments.
 
 There are Pre-Lab Activities published each week on Canvas, which are designed to be undertaken prior to attending class. These are also highlighted at the start of each respective chapter of the lab manual. The activities are designed to test your understanding of the content, and encourage critical thinking about the content that you are about to engage with in class.
 
@@ -34,21 +34,22 @@ Food and drink is not permitted in laboratory spaces, except water bottles or wh
 
 | Week | Monday | Topic                                  |
 |------|--------|----------------------------------------|
-| 1    | 17 Feb | No Classes - Online Only               |
-| 2    | 24 Feb | Functional Musculoskeletal Testing     |
-| 3    | 03 Mar | Physical Activity Tracking & Adherence |
-| 4    | 10 Mar | Cardiac Responses to Exercise (ECG)    |
-| 5    | 17 Mar | Lipids & Blood Chemistry               |
-| 6    | 24 Mar | Cardiovascular Case Studies            |
-| 7    | 31 Mar | Exercise & Mental Health               |
-| 8    | 7 Apr  | Mid-semester Exam                      |
-| MSB  | 14 Apr | No Classes - Mid-semester Break        |
-| 9    | 21 Apr | No Classes - Mid-semester Break        |
-| 10   | 28 Apr | Exercise & Cancer                      |
-| 11   | 5 May  | Exercise & Ageing                      |
-| 12   | 12 May | Neuromuscular Rehabilitation           |
-| 13   | 19 May | Osteoporosis & Exercise Modification   |
-| 14   | 26 May | No Classes - Study Leave               |
+| 1    | 16 Feb | No Classes - Online Only               |
+| 2    | 23 Feb | Functional Musculoskeletal Testing     |
+| 3    | 02 Mar | Physical Activity Tracking & Adherence |
+| 4    | 09 Mar | Cardiac Responses to Exercise (ECG)    |
+| 5    | 16 Mar | Lipids & Blood Chemistry               |
+| 6    | 23 Mar | Cardiovascular Case Studies            |
+| MSB  | 30 Mar | No Classes - Mid-semester Break        |
+| MSB  | 06 Apr | No Classes - Mid-semester Break        |
+| MSB  | 13 Apr | No Classes - Mid-semester Break        |
+| 9    | 20 Apr | Mid-semester Exam                      |
+| 10   | 27 Apr | No Classes - ANZAC Day (Observed)      |
+| 11   | 04 May | Exercise & Cancer                      |
+| 12   | 11 May | Exercise & Mental Health               |
+| 13   | 18 May | Exercise & Ageing                      |
+| 14   | 25 May | Neuromuscular Rehabilitation           |
+<!-- | 14   | 25 May | Osteoporosis & Exercise Modification   | -->
 
 ## Acknowledgements
 
