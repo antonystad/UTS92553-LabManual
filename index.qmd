@@ -44,7 +44,7 @@ Food and drink is not permitted in laboratory spaces, except water bottles or wh
 | MSB  | 06 Apr | No Classes - Mid-semester Break        |
 | MSB  | 13 Apr | No Classes - Mid-semester Break        |
 | 9    | 20 Apr | Mid-semester Exam                      |
-| 10   | 27 Apr | No Classes - ANZAC Day (Observed)      |
+| 10   | 27 Apr | No Classes - Online Only (ANZAC Day)   |
 | 11   | 04 May | Exercise & Cancer                      |
 | 12   | 11 May | Exercise & Mental Health               |
 | 13   | 18 May | Exercise & Ageing                      |
