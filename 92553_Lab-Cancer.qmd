@@ -1,5 +1,5 @@
 ---
-title: "Week 10 - Exercise & Cancer"
+title: "Week 11 - Exercise & Cancer"
 subtitle: "The Role of Exercise in the Treatment and Management of Cancer"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Week 13 - Neuromuscular Rehabilitation"
+title: "Week 14 - Neuromuscular Rehabilitation"
 subtitle: "Electromyostimulation for Rehabilitation and Recovery"
 ---
 
