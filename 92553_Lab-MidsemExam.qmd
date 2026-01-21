@@ -1,12 +1,12 @@
 ---
-title: "Week 9 - Midsemester Exam"
+title: "Week 8 - Midsemester Exam"
 ---
 
 ## Pre-Lab Activity
 
 This week is the Midsemester Exam, which is conducted in your regular class time.
 
-The exam includes multiple choice and short answer questions covering online and lab content from Weeks 2 to 6 (inclusive).
+The exam includes multiple choice and short answer questions covering online and lab content from Weeks 1 to 6 (inclusive).
 
 The exam is completed online, on Canvas, under standard exam conditions. Canvas logs browser tab and extension activity.
 

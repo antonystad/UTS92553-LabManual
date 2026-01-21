@@ -32,24 +32,25 @@ Food and drink is not permitted in laboratory spaces, except water bottles or wh
 
 ## Lab Schedule {#sec-lab-schedule}
 
-| Week | Monday | Topic                                  |
-|------|--------|----------------------------------------|
-| 1    | 16 Feb | No Classes - Online Only               |
-| 2    | 23 Feb | Functional Musculoskeletal Testing     |
-| 3    | 02 Mar | Physical Activity Tracking & Adherence |
-| 4    | 09 Mar | Cardiac Responses to Exercise (ECG)    |
-| 5    | 16 Mar | Lipids & Blood Chemistry               |
-| 6    | 23 Mar | Cardiovascular Case Studies            |
-| MSB  | 30 Mar | No Classes - Mid-semester Break        |
-| MSB  | 06 Apr | No Classes - Mid-semester Break        |
-| MSB  | 13 Apr | No Classes - Mid-semester Break        |
-| 9    | 20 Apr | Mid-semester Exam                      |
-| 10   | 27 Apr | No Classes - Online Only (ANZAC Day)   |
-| 11   | 04 May | Exercise & Cancer                      |
-| 12   | 11 May | Exercise & Mental Health               |
-| 13   | 18 May | Exercise & Ageing                      |
-| 14   | 25 May | Neuromuscular Rehabilitation           |
-<!-- | 14   | 25 May | Osteoporosis & Exercise Modification   | -->
+| Week    | Monday | Topic                                  |
+|---------|--------|----------------------------------------|
+| 1       | 16 Feb | No Classes - Online Only               |
+| 2       | 23 Feb | Functional Musculoskeletal Testing     |
+| 3       | 02 Mar | Physical Activity Tracking & Adherence |
+| 4       | 09 Mar | Cardiac Responses to Exercise (ECG)    |
+| 5       | 16 Mar | Lipids & Blood Chemistry               |
+| 6       | 23 Mar | Cardiovascular Case Studies            |
+| MSB     | 30 Mar | No Classes - Mid-semester Break        |
+| 7 / MSB | 06 Apr | No Classes - Mid-semester Break        |
+| 8       | 13 Apr | Mid-semester Exam                      |
+| 9       | 20 Apr | Exercise & Cancer                      |
+| 10      | 27 Apr | Exercise & Ageing                      |
+| 11      | 04 May | Exercise & Mental Health               |
+| 12      | 11 May | Neuromuscular Rehabilitation           |
+| 13      | 18 May | Resistance Training for Complex Cases  |
+| 14 / SL | 25 May | Study Leave                            |
+
+The Final Exam will be in the UTS Exam Period (9-19 June). Date will be confirmed in April.
 
 ## Acknowledgements
 

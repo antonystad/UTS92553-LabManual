@@ -13,7 +13,7 @@ Before this week's lab, find and watch a TED talk that provides some relevant in
 
 You will also need to conduct a brief review of two different types of activity logging devices (e.g., Fitbit, Garmin, Apple Watch, or relevant phone apps), including their main features and how they work.
 
-The in class activities require the use of a health and fitness phone app that is able to record activity/step count. If you do not currently have one installed, please take the time to find a suitable app so that you can participate in class. The *Health* or *Fitness* apps are simple options for iOS users.
+The in-class activities require the use of a health and fitness phone app that is able to record activity/step count. If you do not currently have one installed, please take the time to find a suitable app so that you can participate in class. The *Health* or *Fitness* apps are simple options for iOS users.
 
 Write your notes from the talk you chose AND the activity logging devices you reviewed below.
 
@@ -31,9 +31,9 @@ If you are using the online lab manual, when you have completed the lab content 
 
 ### Introduction
 
-Exercise adherence is an important consideration in any program. There are many contributory elements to this complex issue, and while research continually builds around the topic, societal exercise habits about exercise participation are not improving. This tutorial content presents a range of questionnaires that provide non-physical methods to assess fitness, health and functional capacity along with some of the typically reported barriers to exercise.
+Exercise adherence is an important consideration in any program. There are many contributing elements to this complex issue and, while research continually builds around the topic, societal exercise habits about exercise participation are not improving. This tutorial content presents a range of questionnaires that provide non-physical methods to assess fitness, health, and functional capacity along with some of the typically reported barriers to exercise.
 
-The questionnaires are included for you to become familiar with by reading and completing them with the persona of an individual with a chronic condition. Please pick a range of symptoms that would typically be present in an individual with a cardiopulmonary, metabolic, musculoskeletal or neuromuscular condition.
+The questionnaires are included for you to become familiar with by reading and completing them first from your own perspective, then identifying questionnaire items that would be particularly challenging for an individual living with a chronic condition. Consider a range of symptoms that would typically be present in an individual with a cardiopulmonary, metabolic, musculoskeletal, or neuromuscular condition when assessing the impact on a person's responses to the questionnaires.
 
 Some of these questionnaires might be appropriate for you to include as part of the testing battery for your assignment.
 
@@ -56,6 +56,8 @@ The LTEQ is designed to quantify voluntary exercise participation and provide a 
 This link provides a simple online cardiovascular disease risk assessment tool developed by the Heart Foundation in association with the Australian Chronic Disease Prevention Alliance.
 
 [cvdcheck.org.au](https://www.cvdcheck.org.au/)
+
+When using the CVD Risk Calculator, you may need to modify your age for the assessment to work. Use your current details to identify your risk assuming a continuation of your current health state.
 
 The site also provides useful guidelines and resources for health professionals and the general public.
 
@@ -1000,25 +1002,23 @@ Additionally, the term 'adherence' better encapsulates a more holistic buy-in fr
 
 {{< pagebreak >}}
 
-### References
-
-{{< pagebreak >}}
-
 ## Lab Session - Part B
 
 **Accuracy of Daily Activity Monitors**
 
 ### Introduction
 
-Physical inactivity is a primary cause of the major metabolic diseases. Whilst there are many confounding factors that contribute to these diseases, including genetics, dyslipidaemia and cardiovascular disease, sedentary behaviour is perhaps the primary cause of obesity and impaired insulin sensitivity. With the introduction of physical activity into daily life, individuals with metabolic diseases can significantly reduce the risk of mortality and improve their quality of life.
+Physical inactivity is a primary cause of the major metabolic diseases. Whilst there are many confounding factors that contribute to these diseases, including genetics, dyslipidaemia, and cardiovascular disease, sedentary behaviour is perhaps the primary cause of obesity and impaired insulin sensitivity. With the introduction of physical activity into daily life, individuals with metabolic diseases can significantly reduce the risk of mortality and improve their quality of life.
 
-Physical activity is a proven method of achieving and maintaining a negative energy balance (to attain an ideal body mass). Monitoring physical activity is important in two main ways:
+Physical activity is a proven method for achieving and maintaining a negative energy balance. Monitoring physical activity is important in two main ways:
 
 1.  Physical activity measures are used diagnostically to **assess** current physical activity patterns.
 
 2.  Physical activity measures are used as a **prescriptive** tool, with a target distance to cover/number of steps per session being prescribed. In this way, the pedometer can also act as an incentive for participants to cover a set amount of work in a day.
 
-It is common for practitioners to prescribe physical activity to clients with metabolic diseases, however, this activity must be prescribed on an individual basis. Current physical activity status, aerobic fitness, exertional distress and any injuries must be considered when prescribing an exercise program. For monitoring purposes, daily activity logs are often compiled by patients/clients, however, inaccurate responses are very common among patients with obesity and other metabolic diseases. Equipment such as pedometers, accelerometers and global positioning system (GPS) units provide objective measures of the amount of activity performed on any given day, and are accordingly far more reliable than other recording methods. 
+It is common for practitioners to prescribe physical activity to clients with metabolic diseases, however, this activity must be prescribed on an individual basis. Current physical activity status, aerobic fitness, exertional distress, and any injuries must be considered when prescribing an exercise program.
+
+For monitoring purposes, daily activity logs are often compiled by patients/clients, however, inaccurate responses are very common among patients with obesity and other metabolic diseases. Equipment such as pedometers, accelerometers, and global positioning system (GPS) units provide objective measures of the amount of activity performed on any given day, and are accordingly far more reliable than other recording methods. 
 
 The objectives of this lab activity are to:
 
@@ -1059,13 +1059,13 @@ Some pedometers allow the entry of physical data such as height, body mass, or o
 
 A large scale research project incorporating physical activity prescription using pedometers is the 10,000 steps program based in Rockhampton, QLD. The project has attempted to increase physical activity in a regional town in an attempt to offset the growing obesity crisis. Participants are encouraged to wear a pedometer and undertake a minimum of 10,000 steps per day, through either incidental exercise during the day, or formal sport/exercise participation. In an attempt to maximise adherence, support is available to participants via phone calls and online resources. Researchers have determined that this quantity of physical activity (10,000 steps) approximates the guidelines for general health, although a greater number of steps per day is encouraged.
 
-For more information about this program, go to [10000steps.org.au](http://www.10000steps.org.au). In January 2025, they report that 685,547 members have logged a grand total of 432,606,819,172 steps! Similar gamification or reward models exist, for example [Qantas Wellbeing](https://insurance.qantas.com/wellbeing/qantaswellbeingapp).
+For more information about this program, go to [10000steps.org.au](http://www.10000steps.org.au). In January 2026, they report that their 716,604 members have logged a grand total of 470,955,491,444 steps! Similar gamification or reward models exist, for example [Qantas Wellbeing](https://insurance.qantas.com/wellbeing/qantaswellbeingapp).
 
 **Accelerometers**
 
 Accelerometers can provide a better measure of activity compared to pedometers as they can distinguish between walking, running, and even more explosive movements (e.g., jumping). Rather than a binary outcome offered by a pedometer (step or no step), accelerometers offer information about the magnitude/intensity of movement. Complex algorithms can also separate movement derived from skeletal muscle force output and movement generated outside the human capability, such as that recorded from riding in a car. Due to their precision and reliability, accelerometers are often used to validate pedometer step counts and are, therefore, a gold standard method for measuring physical activity.
 
-Accelerometers operate by measuring acceleration along a given axis. They are typically tri-axial (i.e., coronal, vertical, and anteroposterior), enabling measurement of movement in multiple planes (frontal, sagittal, and transverse). Mechanistically, the accelerometer sensor converts movements into electrical signals (counts) that are proportional to the muscular force responsible for producing motion (Melanson & Freedson, 1996). These counts are summed over a specified period of time and stored. This period is often 24 hours, or can be up to 2-3 full months depending on battery and storage capacity. Segmenting accelerometer data enables the determination of activity patterns which leads to deeper analyses, e.g., sleep vs awake time, and can provide information about temporal patterns of exercise.
+Accelerometers operate by measuring acceleration along a given axis. They are typically tri-axial (i.e., coronal, vertical, and anteroposterior), enabling measurement of movement in multiple planes (frontal, sagittal, and transverse). Mechanistically, the accelerometer sensor converts movements into electrical signals that are proportional to the muscular force responsible for producing motion (Melanson & Freedson, 1996). These signal counts are summed over a specified period of time and stored. This period is often 24 hours, or can be up to 2-3 full months depending on battery and storage capacity. Segmenting accelerometer data enables the determination of activity patterns which leads to deeper analyses, e.g., sleep vs awake time, and can provide information about temporal patterns of exercise.
 
 ::: {.callout-note appearance="simple"}
 For a review of this technology see Yang & Hsu (2010). A review of accelerometry-based wearable motion detectors for physical activity monitoring. *Sensors*, *10*(8): 7772-7788. [doi.org/10.3390/s100807772](https://doi.org/10.3390/s100807772)
@@ -1075,7 +1075,7 @@ For a review of this technology see Yang & Hsu (2010). A review of accelerometry
 
 GPS (Global Positioning System) technology has revolutionised the way that exercise scientists are able to track athletes and research subjects. Small GPS chips are very affordable and user-friendly, with many different models available for \<\$300. GPS units obtain position data from up to 31 currently-orbiting satellites that, with clear skies and an open area, can provide accurate location data to within 30 cm with modern mobile phones (typically closer to 5 m). Military and engineering applications can achieve sub-millimeter accuracy. Most GPS units measure position once per second (1 Hz), however some can log data at much higher frequencies, e.g., 5, 10, or 100 Hz, increasing accuracy (and file size).
 
-Together with GPS data, most monitors also record heart rate to provide a more accurate measure of energy expenditure. This has obvious benefits for quantifying training loads and volumes. GPS monitors have been shown to accurately record distance and speed, however some factors can increase measurement error. Low measurement frequency can result in missed movements where faster movement patterns have greater error due to rapid changes in latitude/longitude. Additionally, the built and natural environment (buildings, trees, clouds) can also obstruct line-of-sight between the GPS unit and satellites. You may have noticed on your Strava map that the GPS trace sometimes goes wandering all over the road. This error can lead to overestimation of distance covered (about 5%). This represents a clear limitation of GPS-based tracking, which makes it unsuitable in some scenarios. Indoor positioning systems have been developed with very high accuracy (2 cm), which may make this less of a limitation (Serpiello et al., 2018; Spinney et al., 2015).
+Together with GPS data, most monitors also record heart rate to provide a more accurate measure of energy expenditure. This has obvious benefits for quantifying training loads and volumes. GPS monitors have been shown to accurately record distance and speed, however some factors can increase measurement error. Low measurement frequency can result in missed movements where faster movement patterns have greater error due to rapid changes in latitude/longitude. Additionally, the built and natural environment (buildings, trees, clouds) can also obstruct line-of-sight between the GPS unit and satellites. You may have noticed on your Strava map that the GPS trace sometimes goes wandering all over the road. This error can lead to overestimation of distance covered (about 5%). This represents a clear limitation of GPS-based tracking, which makes it unsuitable in some scenarios. Ultrawide-Band (UWB) positioning systems have been developed with very high accuracy (2 cm), which may make this less of a limitation (Serpiello et al., 2018; Spinney et al., 2015).
 
 When considering the use of GPS for tracking of humans, a pioneering article by Duncan et al. (2007) stated that:
 
@@ -1099,7 +1099,76 @@ The reliability of pedometers and GPS monitors have been published previously. I
 
 ### Results
 
-![For Online Lab Manual users: Right-click and save to download](images/PhysActiv_DataCollection.pdf){fig-align="center" height="100%"}
+```{=html}
+<table>
+  <caption>GPS vs Pedometer Data Comparison</caption>
+  <colgroup>
+    <col style="width:40%">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Activity</th>
+      <th>Slow Walk<br><sub>3.6km/h or 1.0m/s</sub></th>
+      <th>Fast Walk<br><sub>6.0km/h or 1.7m/s</sub></th>
+      <th>Running<br><sub>10km/h or 2.8m/s</sub></th>
+    </tr>
+  </thead>
+  <tbody style="border-bottom: 1px solid #ddd">
+    <tr>
+      <td>Approximate step length (m)</td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td>Actual - Counted Steps<br><sub>Number counted by testers</sub></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td>Actual - Measured Distance (m)<br><sub>Distance walked on track</sub></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td>GPS - Reported Distance (m)</td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td>Pedometer - Reported Steps</td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td>Pedometer - Calculated Distance (m)<br><sub>Reported Steps × Step Length</sub></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td>Phone - Reported Steps</td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+    <tr>
+      <td>Phone - Calculated Distance (m)<br><sub>Reported Steps × Step Length</sub></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+      <td><div contenteditable></div></td>
+    </tr>
+</table>
+```
+
+<!-- ![For Online Lab Manual users: Right-click and save to download](images/PhysActiv_DataCollection.pdf){fig-align="center" height="100%"} -->
 
 {{< pagebreak >}}
 

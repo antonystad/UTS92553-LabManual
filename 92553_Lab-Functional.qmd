@@ -21,13 +21,13 @@ If you are using the online lab manual, when you have completed the lab content 
 
 ### Introduction
 
-There are many different methods to assess strength and functional capacity in individuals with chronic diseases. The gold standard of strength and power assessment is performed on an isokinetic dynamometer. You may have witnessed testing on this device previously (in 92533 Exercise Physiology) or and have seen footage of this testing procedure for different joints of the body. It is possible to determine strength at certain velocities and certain angles which are related to performance in numerous tasks. Further, by looking at rate of force development, exercise scientists can examine power output which is strongly related to exercise performance and risk of falling.
+There are many different methods to assess strength and functional capacity in individuals with chronic diseases. The gold standard of strength and power assessment is performed on an isokinetic dynamometer, which you may have observed in Biomechanics or Physiology lab classes. It is possible to determine strength at different velocities and angles which are related to performance in various tasks. By looking at the rate of force development, exercise scientists can assess power output, which is strongly related to exercise performance and risk of falling.
 
-In addition to the examination of strength and power, it is important to determine functional capacity. Functional capacity is integrally related to quality of life, and is perhaps a stronger indicator of life satisfaction than specific measures of muscle strength. There are unique tests that can monitor balance, the ability to rise from a chair, walking performance, stair climbing ability and many other facets of daily life. In today’s lab, you will perform some different types of tests that relate to functional performance, and also look at some methods to improve performance in these tests.
+In addition to the examination of strength and power, it is important to determine functional capacity. Functional capacity is critically relevant to quality of life, and is perhaps a stronger indicator of life satisfaction than specific measures of muscle strength. There are unique tests that can monitor balance, the ability to rise from a chair, walking performance, stair climbing ability, and many other facets of daily life. In today’s lab, you will perform some different types of tests that relate to functional performance, and also look at some methods to improve performance in these tests.
 
 #### Assessment of functional ability in special populations
 
-Functional performance is proportionally related to quality of life. There are many ways that exercise scientists can assess functional performance in special populations. One must consider the intensity of the testing and the actions undertaken, however, these types of tests are typically of a lower intensity than traditional tests such as maximal treadmill tests, and therefore safety is less of a concern. Regardless, it is still important to complete the appropriate screening questionnaires and obtain informed consent to participate. Correct technique can be an issue, especially in frail individuals, however, the simple nature of the tests generally permit high levels of reliability and validity.
+Functional performance is proportionally related to quality of life. There are many ways that exercise scientists can assess functional performance in various populations. One must consider the intensity of the testing and the actions undertaken, however, these types of tests are typically of a lower intensity than traditional tests such as maximal treadmill tests, so safety is less of a concern. Regardless, it is still important to complete the appropriate screening questionnaires and obtain informed consent to participate. Correct technique can be an issue, especially in frail individuals, however, the simple nature of the tests generally permit high levels of reliability and validity.
 
 {{< pagebreak >}}
 
@@ -42,7 +42,7 @@ Functional performance is proportionally related to quality of life. There are m
 
 #### Tests
 
-The following tests are examples of methods to assess functional capacity and could be used for any sub-population, especially those who are frail, have a chronic disease or a disability.
+The following tests are examples of methods to assess functional capacity and could be used for any sub-population, especially those who are frail, have a chronic disease, or a disability.
 
 ##### 1.6 km Walk Test
 
@@ -58,7 +58,7 @@ The sit-to-stand (STS) test measures the time taken to rise from a chair (and si
 
 ##### Timed-Up and Go-Test
 
-The timed-up and go-test (TUG) involves standing up from a chair, walking 3 m as quickly and as safely as possible, crossing a line marked on the floor, turning around, and then walking back to sit back down in the chair (Bruyere et al., 2005). The participant is initially seated in a 40 cm-high chair without arms, with his or her back flush against the backrest. The time taken is typically calculated by pressure pads secured to the centre of the seat. Turning time, the time to turn around at the 3-m mark can also be measured if that measure is of interest to the tester. The researcher gives a verbal cue to begin the test, and the times for three trials are recorded, with 2 min rest between trials. The mean of the best two trials is used for analysis. This test also displays excellent interday reliability, with intraclass correlations of the TUG test being 0.90.
+The timed-up and go-test (TUG) involves standing up from a chair, walking 3 m as quickly and as safely as possible, crossing a line marked on the floor, turning around, and then walking back to sit back down in the chair (Bruyere et al., 2005). The participant is initially seated in a 40 cm-high chair without arms, with his or her back flush against the backrest. The time taken is typically calculated by pressure pads secured to the centre of the seat. Turning time, the time to turn around at the 3 m mark can also be measured if that measure is of interest to the tester. The researcher gives a verbal cue to begin the test, and the times for three trials are recorded, with 2 min rest between trials. The mean of the best two trials is used for analysis. This test also displays excellent interday reliability, with intraclass correlations of the TUG test being 0.90.
 
 ##### Fast Walk
 

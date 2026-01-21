@@ -43,11 +43,11 @@ book:
     - 92553_Lab-Lipids.qmd
     - 92553_Lab-CVcases.qmd
     - 92553_Lab-MidsemExam.qmd
-    - 92553_Lab-DXA.qmd
     - 92553_Lab-Cancer.qmd
-    - 92553_Lab-Mental.qmd
     - 92553_Lab-Ageing.qmd
+    - 92553_Lab-Mental.qmd
     - 92553_Lab-Neuromusc.qmd
+    - 92553_Lab-ResistanceTraining.qmd
     - 92553_Lab-Appendices.qmd
     # - references.qmd
 
@@ -58,6 +58,7 @@ format:
     theme: zephyr
     toc: true
     toc-depth: 4
+    toc-expand: true
     number-sections: false
     title-block-banner: true
     # df-print: kable
@@ -76,7 +77,7 @@ format:
     number-sections: false
     colorlinks: true
     # tbl-colwidths: auto
-    # df-print: kable
+    df-print: kable
     # template-partials:
     #   - before-body.tex
   docx:

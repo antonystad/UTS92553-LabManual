@@ -1,5 +1,5 @@
 ---
-title: "Week 11 - Exercise & Cancer"
+title: "Week 9 - Exercise & Cancer"
 subtitle: "The Role of Exercise in the Treatment and Management of Cancer"
 ---
 
@@ -71,9 +71,9 @@ In small groups, develop an Exercise Management Plan for each for the following 
 
 #### Case Study 1
 
-Samara is a 47-year old female with breast cancer.
+Samara is a 38-year old female with breast cancer.
 
-Samara is 10 weeks post surgery (double mastectomy), and is completing her first cycle of chemotherapy. She will then commence radiation therapy and hormone therapy.
+Samara is 10 weeks post surgery (double mastectomy), and is completing her third cycle of chemotherapy.
 
 Consider the following:
 
