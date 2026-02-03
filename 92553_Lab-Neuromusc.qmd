@@ -133,8 +133,8 @@ Make notes below about the target muscles chosen, positioning of electrodes, and
 ```{=html}
 <table>
   <colgroup>
-    <col style="width:25%">
-    <col style="width:75%">
+    <col style="width:33%">
+    <col style="width:67%">
   </colgroup>
     <thead>
     </thead>

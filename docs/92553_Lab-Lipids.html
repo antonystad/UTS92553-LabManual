@@ -351,27 +351,27 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Total Cholesterol</td>
-<td>≤ 5.18 mmol/L (200 mg/dL)</td>
-<td>5.19-6.20 mmol/L (200-239 mg/dL)</td>
-<td>≥ 6.21 mmol/L (240 mg/dL)</td>
+<td>3.9-5.5 mmol/L</td>
+<td>5.5-6.5 mmol/L</td>
+<td>≥ 6.5 mmol/L</td>
 </tr>
 <tr class="even">
-<td>HDL Cholesterol (Note: Higher values are better)</td>
-<td>≥ 1.55 mmol/L (60 mg/dL)</td>
-<td></td>
-<td>≤ 1.04 mmol/L (40 mg/dL)</td>
+<td>HDL Cholesterol<br><sub>Note: Higher values are better</sub>)</td>
+<td>≥ 1.5 mmol/L</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr class="odd">
 <td>LDL Cholesterol</td>
-<td>≤ 2.59 mmol/L (100 mg/dL)</td>
-<td>2.60-4.20 mmol/L (100-160 mg/dL)</td>
-<td>≥ 4.21 mmol/L (160 mg/dL)</td>
+<td>1.7-3.5 mmol/L</td>
+<td>3.6-4.5 mmol/L</td>
+<td>≥ 4.5 mmol/L</td>
 </tr>
 <tr class="even">
 <td>Triglycerides</td>
-<td>≤ 1.70 mmol/L (150 mg/dL)</td>
-<td>1.71-2.25 mmol/L (150-200 mg/dL)</td>
-<td>≥ 2.26 mmol/L (200 mg/dL)</td>
+<td>0.5-1.7 mmol/L</td>
+<td>1.8-2.5 mmol/L</td>
+<td>≥ 2.5 mmol/L</td>
 </tr>
 </tbody>
 </table>
@@ -818,6 +818,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

@@ -89,10 +89,10 @@ Blood chemistry is often assessed in a fasted state. This removes the acute natu
 
 | Variable | Ideal | Borderline High | High Risk |
 |----|----|----|----|
-| Total Cholesterol | ≤ 5.18 mmol/L (200 mg/dL) | 5.19-6.20 mmol/L (200-239 mg/dL) | ≥ 6.21 mmol/L (240 mg/dL) |
-| HDL Cholesterol (Note: Higher values are better) | ≥ 1.55 mmol/L (60 mg/dL) |  | ≤ 1.04 mmol/L (40 mg/dL) |
-| LDL Cholesterol | ≤ 2.59 mmol/L (100 mg/dL) | 2.60-4.20 mmol/L (100-160 mg/dL) | ≥ 4.21 mmol/L (160 mg/dL) |
-| Triglycerides | ≤ 1.70 mmol/L (150 mg/dL) | 1.71-2.25 mmol/L (150-200 mg/dL) | ≥ 2.26 mmol/L (200 mg/dL) |
+| Total Cholesterol | 3.9-5.5 mmol/L | 5.5-6.5 mmol/L | ≥ 6.5 mmol/L |
+| HDL Cholesterol<br><sub>Note: Higher values are better</sub>) | ≥ 1.5 mmol/L | - | - |
+| LDL Cholesterol | 1.7-3.5 mmol/L | 3.6-4.5 mmol/L | ≥ 4.5 mmol/L |
+| Triglycerides | 0.5-1.7 mmol/L | 1.8-2.5 mmol/L | ≥ 2.5 mmol/L |
 
 : Normative Values for Blood Cholesterol and Triglycerides
 

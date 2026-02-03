@@ -315,12 +315,12 @@ ul.task-list li input[type="checkbox"] {
 <td>Cardiovascular Case Studies</td>
 </tr>
 <tr class="odd">
-<td>MSB</td>
+<td>7 / MSB</td>
 <td>30 Mar</td>
 <td>No Classes - Mid-semester Break</td>
 </tr>
 <tr class="even">
-<td>7 / MSB</td>
+<td>MSB</td>
 <td>06 Apr</td>
 <td>No Classes - Mid-semester Break</td>
 </tr>
@@ -361,7 +361,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<p>The Final Exam will be in the UTS Exam Period (9-19 June). Date will be confirmed in April.</p>
+<p>The Final Exam will be in the UTS Exam Period (9-19 June). The date will be confirmed in April.</p>
 </section>
 <section id="acknowledgements" class="level2">
 <h2 class="anchored" data-anchor-id="acknowledgements">Acknowledgements</h2>
@@ -475,6 +475,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

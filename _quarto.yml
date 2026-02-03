@@ -61,6 +61,8 @@ format:
     toc-expand: true
     number-sections: false
     title-block-banner: true
+    link-external-icon: true
+    link-external-newwindow: true
     # df-print: kable
   pdf:
     documentclass: scrbook
@@ -82,7 +84,7 @@ format:
     #   - before-body.tex
   docx:
     toc: true
-    toc-depth: 4
+    toc-depth: 3
     number-sections: false
     fig-align: center
     # df-print: kable

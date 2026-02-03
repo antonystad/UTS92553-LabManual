@@ -40,8 +40,8 @@ Food and drink is not permitted in laboratory spaces, except water bottles or wh
 | 4       | 09 Mar | Cardiac Responses to Exercise (ECG)    |
 | 5       | 16 Mar | Lipids & Blood Chemistry               |
 | 6       | 23 Mar | Cardiovascular Case Studies            |
-| MSB     | 30 Mar | No Classes - Mid-semester Break        |
-| 7 / MSB | 06 Apr | No Classes - Mid-semester Break        |
+| 7 / MSB | 30 Mar | No Classes - Mid-semester Break        |
+| MSB     | 06 Apr | No Classes - Mid-semester Break        |
 | 8       | 13 Apr | Mid-semester Exam                      |
 | 9       | 20 Apr | Exercise & Cancer                      |
 | 10      | 27 Apr | Exercise & Ageing                      |
@@ -50,7 +50,7 @@ Food and drink is not permitted in laboratory spaces, except water bottles or wh
 | 13      | 18 May | Resistance Training for Complex Cases  |
 | 14 / SL | 25 May | Study Leave                            |
 
-The Final Exam will be in the UTS Exam Period (9-19 June). Date will be confirmed in April.
+The Final Exam will be in the UTS Exam Period (9-19 June). The date will be confirmed in April.
 
 ## Acknowledgements
 

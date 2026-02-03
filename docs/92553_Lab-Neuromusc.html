@@ -393,8 +393,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Make notes below about the target muscles chosen, positioning of electrodes, and the objective and subjective assessments made during your EMS trials</p>
 <table class="caption-top table" data-quarto-postprocess="true">
 <colgroup>
-<col style="width: 25%">
-<col style="width: 75%">
+<col style="width: 33%">
+<col style="width: 67%">
 </colgroup>
 <tbody style="border-bottom: 1px solid #ddd">
 <tr class="odd" style="background-color: #CAEEFB">
@@ -641,6 +641,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
