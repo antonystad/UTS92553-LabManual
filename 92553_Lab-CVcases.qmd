@@ -337,7 +337,7 @@ The following are provided below and in the Appendix for this Lab to help you co
 
 Cathy is a 62-year old female with Coronary Artery Disease.
 
-Cathy attends your Cardiac Rehabilitation program 3 weeks post-operation for a double bypass. In her discharge summary from hospital you read the following findings: LDL 1.6 mmol/L; waist circumference 85 cm; resting BP 135/85; and, resting HR 65bpm. Medications on discharge: Atorvastatin (Lipitor – cholesterol lowering medication), Captopril (ACE inhibitor – BP lowering medication), and Sertraline (Selective Serotonin Reuptake Inhibitors – Antidepressant). On another GP letter you find further information on her history of sedentary behaviour due to a busy corporate career as a lawyer and depression since her mother recently passed away from a heart attack.
+Cathy attends your Cardiac Rehabilitation program 3 weeks post-operation for a double bypass. In her discharge summary from hospital you read the following findings: LDL 4.6 mmol/L, Triglycerides 1.7 mmol/L, Total Cholesterol 5.8 mmol/L; height 175 cm, weight 76 kg, waist circumference 85 cm; resting BP 135/85; and, resting HR 65 bpm. Medications on discharge: Atorvastatin (Lipitor – cholesterol lowering medication), Captopril (ACE inhibitor – BP lowering medication), and Sertraline (Selective Serotonin Reuptake Inhibitors – Antidepressant). On another GP letter you find further information on her history of sedentary behaviour due to a busy corporate career as a lawyer and depression since her mother recently passed away from a heart attack.
 
 ```{=html}
 <table>
